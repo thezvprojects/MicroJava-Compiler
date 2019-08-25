@@ -1,0 +1,175 @@
+INFO  13:31:27,378 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:31:27,507 - #4 program
+INFO  13:31:27,507 - #17 test301
+INFO  13:31:27,508 - #2 enum
+INFO  13:31:27,511 - #17 Broj
+INFO  13:31:27,511 - #5 {
+INFO  13:31:27,511 - #17 NULA
+INFO  13:31:27,511 - #10 ,
+INFO  13:31:27,512 - #17 JEDAN
+INFO  13:31:27,513 - #10 ,
+INFO  13:31:27,513 - #17 PET
+INFO  13:31:27,513 - #14 =
+INFO  13:31:27,514 - #16 5
+INFO  13:31:27,514 - #10 ,
+INFO  13:31:27,515 - #17 DESET
+INFO  13:31:27,515 - #14 =
+INFO  13:31:27,515 - #16 10
+INFO  13:31:27,515 - #6 }
+INFO  13:31:27,515 - #17 int
+INFO  13:31:27,517 - #17 niz
+INFO  13:31:27,519 - #33 [
+INFO  13:31:27,521 - #39 ]
+INFO  13:31:27,521 - #7 ;
+INFO  13:31:27,522 - #17 char
+INFO  13:31:27,523 - #17 nizch
+INFO  13:31:27,523 - #33 [
+INFO  13:31:27,523 - #39 ]
+INFO  13:31:27,523 - #7 ;
+INFO  13:31:27,523 - #17 int
+INFO  13:31:27,524 - #17 brk
+INFO  13:31:27,524 - #7 ;
+INFO  13:31:27,524 - #5 {
+INFO  13:31:27,524 - #17 int
+INFO  13:31:27,526 - #17 inc
+INFO  13:31:27,526 - #8 (
+INFO  13:31:27,527 - #17 int
+INFO  13:31:27,527 - #17 broj
+INFO  13:31:27,527 - #10 ,
+INFO  13:31:27,528 - #17 int
+INFO  13:31:27,528 - #17 xd
+INFO  13:31:27,528 - #10 ,
+INFO  13:31:27,529 - #17 int
+INFO  13:31:27,529 - #17 xp
+INFO  13:31:27,529 - #9 )
+INFO  13:31:27,530 - #5 {
+INFO  13:31:27,531 - #12 return
+INFO  13:31:27,533 - #17 xp
+INFO  13:31:27,533 - #7 ;
+INFO  13:31:27,539 - #6 }
+INFO  13:31:27,540 - #17 int
+INFO  13:31:27,542 - #17 mul
+INFO  13:31:27,542 - #8 (
+INFO  13:31:27,543 - #17 int
+INFO  13:31:27,543 - #17 arr
+INFO  13:31:27,543 - #33 [
+INFO  13:31:27,543 - #39 ]
+INFO  13:31:27,543 - #9 )
+INFO  13:31:27,544 - #5 {
+INFO  13:31:27,544 - #17 arr
+INFO  13:31:27,544 - #33 [
+INFO  13:31:27,544 - #16 1
+INFO  13:31:27,546 - #39 ]
+INFO  13:31:27,547 - #14 =
+INFO  13:31:27,550 - #16 1
+INFO  13:31:27,552 - #13 +
+INFO  13:31:27,553 - #16 0
+INFO  13:31:27,555 - #7 ;
+INFO  13:31:27,557 - #12 return
+INFO  13:31:27,557 - #16 2
+INFO  13:31:27,557 - #7 ;
+INFO  13:31:27,558 - #6 }
+INFO  13:31:27,558 - #15 void
+INFO  13:31:27,558 - #17 main
+INFO  13:31:27,558 - #8 (
+INFO  13:31:27,559 - #9 )
+INFO  13:31:27,560 - #17 int
+INFO  13:31:27,560 - #17 bodovi
+INFO  13:31:27,560 - #7 ;
+INFO  13:31:27,560 - #17 Broj
+INFO  13:31:27,561 - #17 nula
+INFO  13:31:27,561 - #10 ,
+INFO  13:31:27,561 - #17 dva
+INFO  13:31:27,561 - #7 ;
+INFO  13:31:27,562 - #5 {
+INFO  13:31:27,562 - #17 bodovi
+INFO  13:31:27,562 - #14 =
+INFO  13:31:27,563 - #16 3
+INFO  13:31:27,563 - #7 ;
+INFO  13:31:27,563 - #17 brk
+INFO  13:31:27,563 - #14 =
+INFO  13:31:27,563 - #16 2
+INFO  13:31:27,563 - #7 ;
+INFO  13:31:27,564 - #17 niz
+INFO  13:31:27,564 - #14 =
+INFO  13:31:27,564 - #24 new
+INFO  13:31:27,564 - #17 int
+INFO  13:31:27,564 - #33 [
+INFO  13:31:27,564 - #16 2
+INFO  13:31:27,565 - #39 ]
+INFO  13:31:27,565 - #7 ;
+INFO  13:31:27,565 - #17 niz
+INFO  13:31:27,566 - #33 [
+INFO  13:31:27,566 - #16 0
+INFO  13:31:27,566 - #39 ]
+INFO  13:31:27,566 - #14 =
+INFO  13:31:27,566 - #16 5
+INFO  13:31:27,566 - #7 ;
+INFO  13:31:27,567 - #17 niz
+INFO  13:31:27,567 - #33 [
+INFO  13:31:27,567 - #16 1
+INFO  13:31:27,567 - #39 ]
+INFO  13:31:27,567 - #14 =
+INFO  13:31:27,567 - #16 3
+INFO  13:31:27,568 - #7 ;
+INFO  13:31:27,568 - #17 bodovi
+INFO  13:31:27,568 - #14 =
+INFO  13:31:27,568 - #17 inc
+INFO  13:31:27,568 - #8 (
+INFO  13:31:27,569 - #17 bodovi
+INFO  13:31:27,569 - #10 ,
+INFO  13:31:27,569 - #16 17
+INFO  13:31:27,570 - #10 ,
+INFO  13:31:27,570 - #16 19
+INFO  13:31:27,570 - #9 )
+INFO  13:31:27,571 - #7 ;
+INFO  13:31:27,571 - #17 brk
+INFO  13:31:27,572 - #14 =
+INFO  13:31:27,572 - #17 mul
+INFO  13:31:27,572 - #8 (
+INFO  13:31:27,572 - #17 niz
+INFO  13:31:27,572 - #33 [
+INFO  13:31:27,572 - #39 ]
+INFO  13:31:27,572 - #9 )
+INFO  13:31:27,574 - #7 ;
+INFO  13:31:27,574 - #17 bodovi
+INFO  13:31:27,574 - #14 =
+INFO  13:31:27,575 - #17 niz
+INFO  13:31:27,575 - #33 [
+INFO  13:31:27,575 - #16 1
+INFO  13:31:27,575 - #39 ]
+INFO  13:31:27,575 - #13 +
+INFO  13:31:27,575 - #17 niz
+INFO  13:31:27,576 - #33 [
+INFO  13:31:27,576 - #16 0
+INFO  13:31:27,576 - #39 ]
+INFO  13:31:27,576 - #7 ;
+INFO  13:31:27,576 - #17 bodovi
+INFO  13:31:27,577 - #36 ++
+INFO  13:31:27,577 - #7 ;
+INFO  13:31:27,577 - #11 print
+INFO  13:31:27,577 - #8 (
+INFO  13:31:27,577 - #17 bodovi
+INFO  13:31:27,578 - #9 )
+INFO  13:31:27,578 - #7 ;
+INFO  13:31:27,578 - #6 }
+INFO  13:31:27,579 - #6 }
+INFO  13:31:27,605 - VarArrId deklarisan
+INFO  13:31:27,605 - VarArrId deklarisan
+INFO  13:31:27,605 - Obradjuje se funkcija inc na liniji 12
+INFO  13:31:27,606 - Obradjuje se funkcija mul na liniji 17
+ERROR 13:31:27,607 - Greska na liniji 19 : ime noObj nije funkcija!
+INFO  13:31:27,607 - Obradjuje se funkcija main na liniji 23
+ERROR 13:31:27,608 - Greska na liniji 27 : ime noObj nije funkcija!
+ERROR 13:31:27,608 - Greska na liniji 28 : ime noObj nije funkcija!
+ERROR 13:31:27,608 - Greska na liniji 29 : ime noObj nije funkcija!
+ERROR 13:31:27,608 - Greska na liniji 30 : ime noObj nije funkcija!
+ERROR 13:31:27,609 - Greska na liniji 31 : ime noObj nije funkcija!
+INFO  13:31:27,609 - Pronadjen poziv funkcije inc na liniji 32
+ERROR 13:31:27,609 - Greska na liniji 32 : ime noObj nije funkcija!
+INFO  13:31:27,609 - Pronadjen poziv funkcije mul na liniji 33
+ERROR 13:31:27,609 - Greska na liniji 33 : ime noObj nije funkcija!
+ERROR 13:31:27,610 - Greska na liniji 34 : ime noObj nije funkcija!
+ERROR 13:31:27,610 - Greska na liniji 35 : ime noObj nije funkcija!
+INFO  13:31:27,610 - Print calls = 1
+ERROR 13:31:27,612 - Parsiranje NIJE uspesno zavrseno!

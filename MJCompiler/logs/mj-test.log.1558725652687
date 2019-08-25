@@ -1,0 +1,103 @@
+INFO  17:34:46,668 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:34:47,324 - #8 program
+INFO  17:34:47,324 - #21 P
+INFO  17:34:47,324 - #4 enum
+INFO  17:34:47,340 - #21 Broj
+INFO  17:34:47,340 - #9 {
+INFO  17:34:47,340 - #21 JEDAN
+INFO  17:34:47,340 - #18 =
+INFO  17:34:47,340 - #20 1
+INFO  17:34:47,340 - #14 ,
+INFO  17:34:47,340 - #21 DVA
+INFO  17:34:47,340 - #14 ,
+INFO  17:34:47,340 - #21 PET
+INFO  17:34:47,340 - #18 =
+INFO  17:34:47,340 - #20 5
+INFO  17:34:47,340 - #10 }
+INFO  17:34:47,340 - #21 Broj
+INFO  17:34:47,340 - #21 b
+INFO  17:34:47,340 - #11 ;
+INFO  17:34:47,355 - #9 {
+INFO  17:34:47,355 - #19 void
+INFO  17:34:47,355 - #21 main
+INFO  17:34:47,355 - #12 (
+INFO  17:34:47,355 - #13 )
+INFO  17:34:47,371 - #9 {
+INFO  17:34:47,371 - #16 return
+INFO  17:34:47,371 - #11 ;
+INFO  17:34:47,371 - #10 }
+INFO  17:34:47,387 - #10 }
+INFO  17:34:47,418 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:34:47,418 - ===================================
+INFO  17:34:47,433 - Obradjuje se funkcija main na liniji 5
+INFO  17:34:47,433 -  Print count calls = 0
+INFO  17:34:47,433 -  Deklarisanih promenljivih ima = 1
+INFO  17:34:47,433 - ===================================
+INFO  17:34:47,449 - Parsiranje uspesno zavrseno!

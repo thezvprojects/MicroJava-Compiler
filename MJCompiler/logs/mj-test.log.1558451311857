@@ -1,0 +1,25 @@
+INFO  17:08:17,422 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:08:18,061 - #8 program
+INFO  17:08:18,061 - #21 P
+INFO  17:08:18,061 - #4 enum
+INFO  17:08:18,061 - #21 Broj
+INFO  17:08:18,061 - #9 {
+INFO  17:08:18,061 - #21 JEDAN
+INFO  17:08:18,061 - #18 =
+INFO  17:08:18,061 - #20 1
+INFO  17:08:18,061 - #14 ,
+INFO  17:08:18,061 - #21 DVA
+INFO  17:08:18,061 - #14 ,
+INFO  17:08:18,077 - #21 PET
+INFO  17:08:18,077 - #18 =
+INFO  17:08:18,077 - #20 5
+INFO  17:08:18,077 - #10 }
+INFO  17:08:18,077 - #9 {
+INFO  17:08:18,077 - #19 void
+INFO  17:08:18,077 - #21 main
+INFO  17:08:18,077 - #12 (
+INFO  17:08:18,077 - #13 )
+INFO  17:08:18,077 - #9 {
+ERROR 17:08:18,077 - 
+Sintaksna greska na liniji 4
+ERROR 17:08:18,093 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

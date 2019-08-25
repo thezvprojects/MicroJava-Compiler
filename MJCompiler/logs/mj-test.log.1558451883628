@@ -1,0 +1,88 @@
+INFO  17:17:05,013 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:17:05,670 - #8 program
+INFO  17:17:05,670 - #21 P
+INFO  17:17:05,670 - #4 enum
+INFO  17:17:05,685 - #21 Broj
+INFO  17:17:05,685 - #9 {
+INFO  17:17:05,685 - #21 JEDAN
+INFO  17:17:05,685 - #18 =
+INFO  17:17:05,685 - #20 1
+INFO  17:17:05,685 - #14 ,
+INFO  17:17:05,685 - #21 DVA
+INFO  17:17:05,685 - #14 ,
+INFO  17:17:05,685 - #21 PET
+INFO  17:17:05,685 - #18 =
+INFO  17:17:05,685 - #20 5
+INFO  17:17:05,685 - #10 }
+INFO  17:17:05,685 - #9 {
+INFO  17:17:05,685 - #19 void
+INFO  17:17:05,685 - #21 main
+INFO  17:17:05,685 - #12 (
+INFO  17:17:05,685 - #13 )
+INFO  17:17:05,701 - #9 {
+INFO  17:17:05,701 - #16 return
+INFO  17:17:05,716 - #11 ;
+INFO  17:17:05,716 - #10 }
+INFO  17:17:05,716 - #10 }
+INFO  17:17:05,748 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    NoDeclListing(
+    ) [NoDeclListing]
+    DeclEnum(
+      EnumDeclFull(
+       Broj
+        EnumDecls(
+          EnumDecls(
+            EnumNoDecls(
+              EnumDeclDefPart(
+               JEDAN
+               1
+              ) [EnumDeclDefPart]
+            ) [EnumNoDecls]
+            EnumDeclNoDefPart(
+             DVA
+            ) [EnumDeclNoDefPart]
+          ) [EnumDecls]
+          EnumDeclDefPart(
+           PET
+           5
+          ) [EnumDeclDefPart]
+        ) [EnumDecls]
+      ) [EnumDeclFull]
+    ) [DeclEnum]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:17:05,748 - ===================================
+ERROR 17:17:05,763 - Greska na liniji 2: ovaj element enuma vec postoji
+ERROR 17:17:05,763 - Greska na liniji 2: ovaj element enuma vec postoji
+ERROR 17:17:05,763 - Greska na liniji 2: ovaj element enuma vec postoji
+ERROR 17:17:05,763 - Greska na liniji 2: ovaj enum vec postoji
+INFO  17:17:05,779 - Obradjuje se funkcija main na liniji 4
+INFO  17:17:05,779 -  Print count calls = 0
+INFO  17:17:05,779 -  Deklarisanih promenljivih ima = 0
+INFO  17:17:05,779 - ===================================
+ERROR 17:17:05,779 - Parsiranje NIJE uspesno zavrseno!

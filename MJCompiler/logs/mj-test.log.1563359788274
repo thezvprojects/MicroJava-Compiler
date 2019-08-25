@@ -1,0 +1,158 @@
+INFO  12:36:15,257 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:36:15,373 - #4 program
+INFO  12:36:15,373 - #17 P
+INFO  12:36:15,373 - #2 enum
+INFO  12:36:15,376 - #17 Broj
+INFO  12:36:15,376 - #5 {
+INFO  12:36:15,376 - #17 JEDAN
+INFO  12:36:15,377 - #14 =
+INFO  12:36:15,377 - #16 1
+INFO  12:36:15,377 - #10 ,
+INFO  12:36:15,378 - #17 DVA
+INFO  12:36:15,378 - #10 ,
+INFO  12:36:15,379 - #17 PET
+INFO  12:36:15,379 - #14 =
+INFO  12:36:15,379 - #16 5
+INFO  12:36:15,379 - #6 }
+INFO  12:36:15,380 - #17 Broj
+INFO  12:36:15,381 - #17 b
+INFO  12:36:15,383 - #7 ;
+INFO  12:36:15,385 - #5 {
+INFO  12:36:15,385 - #15 void
+INFO  12:36:15,387 - #17 main
+INFO  12:36:15,387 - #8 (
+INFO  12:36:15,387 - #9 )
+INFO  12:36:15,388 - #5 {
+INFO  12:36:15,390 - #17 a
+INFO  12:36:15,391 - #14 =
+INFO  12:36:15,392 - #29 -
+INFO  12:36:15,395 - #16 4
+INFO  12:36:15,395 - #7 ;
+INFO  12:36:15,399 - #11 print
+INFO  12:36:15,400 - #8 (
+INFO  12:36:15,400 - #16 5
+INFO  12:36:15,400 - #9 )
+INFO  12:36:15,400 - #7 ;
+INFO  12:36:15,400 - #35 read
+INFO  12:36:15,401 - #8 (
+INFO  12:36:15,401 - #17 a
+INFO  12:36:15,401 - #9 )
+INFO  12:36:15,401 - #7 ;
+INFO  12:36:15,401 - #6 }
+INFO  12:36:15,402 - #6 }
+INFO  12:36:15,419 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      StList(
+        StList(
+          StList(
+            StNoList(
+            ) [StNoList]
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                 a
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                MinusFrontTermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [MinusFrontTermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [StList]
+          PrintStmt(
+            TermExpr(
+              Term(
+                FactorSolo(
+                  Const(
+                    IntInit(
+                     5
+                    ) [IntInit]
+                  ) [Const]
+                ) [FactorSolo]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [StList]
+        ReadStmt(
+          Designator(
+           a
+          ) [Designator]
+        ) [ReadStmt]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  12:36:15,419 - ===================================
+INFO  12:36:15,428 - Obradjuje se funkcija main na liniji 5
+ERROR 12:36:15,429 - Greska na liniji 7 : ime a nije deklarisano! 
+ERROR 12:36:15,429 - Greska na liniji 7 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 12:36:15,429 - Greska na liniji 9 : ime a nije deklarisano! 
+ERROR 12:36:15,429 - Greska na liniji: 9 nekompatibilan tip(readstmt)
+INFO  12:36:15,430 -  Print count calls = 1
+INFO  12:36:15,430 -  Deklarisanih promenljivih ima = 1
+INFO  12:36:15,430 - ===================================
+ERROR 12:36:15,432 - Parsiranje NIJE uspesno zavrseno!

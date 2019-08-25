@@ -1,0 +1,26 @@
+INFO  17:13:14,100 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:13:14,115 - #8 program
+INFO  17:13:14,115 - #21 P
+INFO  17:13:14,115 - #4 enum
+INFO  17:13:14,115 - #21 Broj
+INFO  17:13:14,115 - #9 {
+INFO  17:13:14,115 - #21 JEDAN
+INFO  17:13:14,131 - #18 =
+INFO  17:13:14,131 - #20 1
+INFO  17:13:14,131 - #14 ,
+INFO  17:13:14,131 - #21 DVA
+INFO  17:13:14,132 - #14 ,
+INFO  17:13:14,132 - #21 PET
+INFO  17:13:14,132 - #18 =
+INFO  17:13:14,132 - #20 5
+INFO  17:13:14,132 - #10 }
+INFO  17:13:14,132 - #9 {
+INFO  17:13:14,132 - #19 void
+INFO  17:13:14,132 - #21 main
+INFO  17:13:14,132 - #12 (
+INFO  17:13:14,132 - #13 )
+INFO  17:13:14,132 - #9 {
+INFO  17:13:14,132 - #16 return
+INFO  17:13:14,132 - #11 ;
+INFO  17:13:14,132 - #10 }
+INFO  17:13:14,132 - #10 }

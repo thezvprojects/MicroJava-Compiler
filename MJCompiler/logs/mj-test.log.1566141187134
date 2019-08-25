@@ -1,0 +1,65 @@
+INFO  17:08:09,274 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:08:09,389 - #4 program
+INFO  17:08:09,389 - #17 test301
+INFO  17:08:09,389 - #2 enum
+INFO  17:08:09,398 - #17 Broj
+INFO  17:08:09,398 - #5 {
+INFO  17:08:09,398 - #17 NULA
+INFO  17:08:09,398 - #10 ,
+INFO  17:08:09,399 - #17 JEDAN
+INFO  17:08:09,399 - #10 ,
+INFO  17:08:09,400 - #17 PET
+INFO  17:08:09,400 - #14 =
+INFO  17:08:09,400 - #16 5
+INFO  17:08:09,401 - #10 ,
+INFO  17:08:09,401 - #17 DESET
+INFO  17:08:09,401 - #14 =
+INFO  17:08:09,401 - #16 10
+INFO  17:08:09,402 - #6 }
+INFO  17:08:09,402 - #17 int
+INFO  17:08:09,403 - #17 niz
+INFO  17:08:09,405 - #33 [
+INFO  17:08:09,406 - #39 ]
+INFO  17:08:09,406 - #7 ;
+INFO  17:08:09,407 - #5 {
+INFO  17:08:09,408 - #15 void
+INFO  17:08:09,410 - #17 main
+INFO  17:08:09,410 - #8 (
+INFO  17:08:09,410 - #9 )
+INFO  17:08:09,412 - #17 int
+INFO  17:08:09,414 - #17 bodovi
+INFO  17:08:09,414 - #7 ;
+INFO  17:08:09,414 - #17 Broj
+INFO  17:08:09,415 - #17 nula
+INFO  17:08:09,415 - #10 ,
+INFO  17:08:09,415 - #17 dva
+INFO  17:08:09,415 - #7 ;
+INFO  17:08:09,416 - #5 {
+INFO  17:08:09,416 - #17 bodovi
+INFO  17:08:09,417 - #14 =
+INFO  17:08:09,420 - #16 3
+INFO  17:08:09,421 - #7 ;
+INFO  17:08:09,424 - #17 nula
+INFO  17:08:09,425 - #14 =
+INFO  17:08:09,425 - #17 Broj
+INFO  17:08:09,425 - #26 .
+INFO  17:08:09,426 - #17 NULA
+INFO  17:08:09,426 - #7 ;
+INFO  17:08:09,427 - #17 bodovi
+INFO  17:08:09,427 - #14 =
+INFO  17:08:09,427 - #17 bodovi
+INFO  17:08:09,427 - #13 +
+INFO  17:08:09,427 - #17 nula
+INFO  17:08:09,429 - #7 ;
+INFO  17:08:09,430 - #11 print
+INFO  17:08:09,430 - #8 (
+INFO  17:08:09,431 - #17 bodovi
+INFO  17:08:09,431 - #9 )
+INFO  17:08:09,431 - #7 ;
+INFO  17:08:09,431 - #6 }
+INFO  17:08:09,431 - #6 }
+INFO  17:08:09,457 - VarArrId deklarisan
+INFO  17:08:09,457 - Obradjuje se funkcija main na liniji 22
+ERROR 17:08:09,459 - Greska na liniji 37: nekompatibilni term i addterm(addexpr)
+INFO  17:08:09,459 - Print calls = 1
+ERROR 17:08:09,462 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,176 @@
+INFO  11:33:38,134 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:33:38,285 - #4 program
+INFO  11:33:38,285 - #17 P
+INFO  11:33:38,286 - #2 enum
+INFO  11:33:38,289 - #17 Broj
+INFO  11:33:38,289 - #5 {
+INFO  11:33:38,289 - #17 JEDAN
+INFO  11:33:38,289 - #14 =
+INFO  11:33:38,290 - #16 1
+INFO  11:33:38,290 - #10 ,
+INFO  11:33:38,290 - #17 DVA
+INFO  11:33:38,291 - #10 ,
+INFO  11:33:38,291 - #17 PET
+INFO  11:33:38,292 - #14 =
+INFO  11:33:38,292 - #16 5
+INFO  11:33:38,292 - #6 }
+INFO  11:33:38,292 - #17 Broj
+INFO  11:33:38,293 - #17 b
+INFO  11:33:38,295 - #7 ;
+INFO  11:33:38,297 - #5 {
+INFO  11:33:38,297 - #15 void
+INFO  11:33:38,299 - #17 main
+INFO  11:33:38,299 - #8 (
+INFO  11:33:38,299 - #9 )
+INFO  11:33:38,301 - #17 int
+INFO  11:33:38,302 - #17 a
+INFO  11:33:38,302 - #7 ;
+INFO  11:33:38,302 - #5 {
+INFO  11:33:38,303 - #17 a
+INFO  11:33:38,304 - #14 =
+INFO  11:33:38,306 - #16 4
+INFO  11:33:38,308 - #13 +
+INFO  11:33:38,310 - #16 9
+INFO  11:33:38,311 - #13 +
+INFO  11:33:38,312 - #16 13
+INFO  11:33:38,312 - #7 ;
+INFO  11:33:38,313 - #12 return
+INFO  11:33:38,314 - #7 ;
+INFO  11:33:38,315 - #6 }
+INFO  11:33:38,316 - #6 }
+INFO  11:33:38,332 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                AddExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                  AddTermListing(
+                    AddTermSolo(
+                      Addop(
+                      ) [Addop]
+                      Term(
+                        FactorSolo(
+                          Const(
+                            IntInit(
+                             9
+                            ) [IntInit]
+                          ) [Const]
+                        ) [FactorSolo]
+                      ) [Term]
+                    ) [AddTermSolo]
+                    Addop(
+                    ) [Addop]
+                    Term(
+                      FactorSolo(
+                        Const(
+                          IntInit(
+                           13
+                          ) [IntInit]
+                        ) [Const]
+                      ) [FactorSolo]
+                    ) [Term]
+                  ) [AddTermListing]
+                ) [AddExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:33:38,333 - ===================================
+INFO  11:33:38,342 - Obradjuje se funkcija main na liniji 5

@@ -1,0 +1,27 @@
+INFO  17:54:01,003 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:54:01,122 - #4 program
+INFO  17:54:01,122 - #17 P
+INFO  17:54:01,122 - #2 enum
+INFO  17:54:01,125 - #17 Broj
+INFO  17:54:01,125 - #5 {
+INFO  17:54:01,126 - #17 JEDAN
+INFO  17:54:01,126 - #14 =
+INFO  17:54:01,126 - #16 1
+INFO  17:54:01,126 - #10 ,
+INFO  17:54:01,127 - #17 DVA
+INFO  17:54:01,127 - #10 ,
+INFO  17:54:01,128 - #17 PET
+INFO  17:54:01,128 - #14 =
+INFO  17:54:01,129 - #16 5
+INFO  17:54:01,129 - #6 }
+INFO  17:54:01,129 - #17 Broj
+INFO  17:54:01,130 - #17 b
+INFO  17:54:01,132 - #7 ;
+INFO  17:54:01,134 - #17 int
+INFO  17:54:01,135 - #17 brauz
+INFO  17:54:01,135 - #8 (
+ERROR 17:54:01,136 - 
+Sintaksna greska na liniji 6
+ERROR 17:54:01,136 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6
+INFO  17:54:01,157 - Print calls = 0
+ERROR 17:54:01,159 - Parsiranje NIJE uspesno zavrseno!

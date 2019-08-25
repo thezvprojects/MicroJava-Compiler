@@ -1,0 +1,65 @@
+INFO  17:14:18,920 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:14:19,045 - #4 program
+INFO  17:14:19,046 - #17 test301
+INFO  17:14:19,046 - #2 enum
+INFO  17:14:19,049 - #17 Broj
+INFO  17:14:19,049 - #5 {
+INFO  17:14:19,049 - #17 NULA
+INFO  17:14:19,049 - #10 ,
+INFO  17:14:19,050 - #17 JEDAN
+INFO  17:14:19,050 - #10 ,
+INFO  17:14:19,051 - #17 PET
+INFO  17:14:19,051 - #14 =
+INFO  17:14:19,051 - #16 5
+INFO  17:14:19,051 - #10 ,
+INFO  17:14:19,052 - #17 DESET
+INFO  17:14:19,052 - #14 =
+INFO  17:14:19,052 - #16 10
+INFO  17:14:19,052 - #6 }
+INFO  17:14:19,053 - #17 int
+INFO  17:14:19,054 - #17 niz
+INFO  17:14:19,056 - #33 [
+INFO  17:14:19,057 - #39 ]
+INFO  17:14:19,058 - #7 ;
+INFO  17:14:19,058 - #5 {
+INFO  17:14:19,059 - #15 void
+INFO  17:14:19,061 - #17 main
+INFO  17:14:19,061 - #8 (
+INFO  17:14:19,062 - #9 )
+INFO  17:14:19,063 - #17 int
+INFO  17:14:19,064 - #17 bodovi
+INFO  17:14:19,065 - #7 ;
+INFO  17:14:19,065 - #17 Broj
+INFO  17:14:19,066 - #17 nula
+INFO  17:14:19,066 - #10 ,
+INFO  17:14:19,066 - #17 dva
+INFO  17:14:19,066 - #7 ;
+INFO  17:14:19,067 - #5 {
+INFO  17:14:19,067 - #17 bodovi
+INFO  17:14:19,068 - #14 =
+INFO  17:14:19,071 - #16 3
+INFO  17:14:19,073 - #7 ;
+INFO  17:14:19,077 - #17 nula
+INFO  17:14:19,078 - #14 =
+INFO  17:14:19,078 - #17 Broj
+INFO  17:14:19,078 - #26 .
+INFO  17:14:19,078 - #17 NULA
+INFO  17:14:19,078 - #7 ;
+INFO  17:14:19,079 - #17 bodovi
+INFO  17:14:19,079 - #14 =
+INFO  17:14:19,080 - #17 bodovi
+INFO  17:14:19,080 - #13 +
+INFO  17:14:19,080 - #17 nula
+INFO  17:14:19,082 - #7 ;
+INFO  17:14:19,083 - #11 print
+INFO  17:14:19,083 - #8 (
+INFO  17:14:19,084 - #17 bodovi
+INFO  17:14:19,084 - #9 )
+INFO  17:14:19,084 - #7 ;
+INFO  17:14:19,084 - #6 }
+INFO  17:14:19,085 - #6 }
+INFO  17:14:19,110 - VarArrId deklarisan
+INFO  17:14:19,111 - Obradjuje se funkcija main na liniji 22
+INFO  17:14:19,113 - Print calls = 1
+INFO  17:14:19,115 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:14:19,135 - Parsiranje uspesno zavrseno!

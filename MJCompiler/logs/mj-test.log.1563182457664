@@ -1,0 +1,151 @@
+INFO  10:49:09,427 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:49:09,570 - #4 program
+INFO  10:49:09,571 - #17 P
+INFO  10:49:09,571 - #2 enum
+INFO  10:49:09,575 - #17 Broj
+INFO  10:49:09,575 - #5 {
+INFO  10:49:09,575 - #17 JEDAN
+INFO  10:49:09,575 - #14 =
+INFO  10:49:09,576 - #16 1
+INFO  10:49:09,576 - #10 ,
+INFO  10:49:09,577 - #17 DVA
+INFO  10:49:09,577 - #10 ,
+INFO  10:49:09,578 - #17 PET
+INFO  10:49:09,578 - #14 =
+INFO  10:49:09,578 - #16 5
+INFO  10:49:09,578 - #6 }
+INFO  10:49:09,579 - #17 Broj
+INFO  10:49:09,580 - #17 b
+INFO  10:49:09,582 - #7 ;
+INFO  10:49:09,585 - #5 {
+INFO  10:49:09,585 - #15 void
+INFO  10:49:09,588 - #17 main
+INFO  10:49:09,588 - #8 (
+INFO  10:49:09,589 - #9 )
+INFO  10:49:09,591 - #17 int
+INFO  10:49:09,593 - #17 a
+INFO  10:49:09,594 - #7 ;
+INFO  10:49:09,594 - #5 {
+INFO  10:49:09,594 - #17 a
+INFO  10:49:09,596 - #14 =
+INFO  10:49:09,599 - #16 4
+INFO  10:49:09,601 - #7 ;
+INFO  10:49:09,605 - #12 return
+INFO  10:49:09,606 - #7 ;
+INFO  10:49:09,606 - #6 }
+INFO  10:49:09,607 - #6 }
+INFO  10:49:09,629 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                TermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [TermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:49:09,629 - ===================================
+INFO  10:49:09,640 - Obradjuje se funkcija main na liniji 5
+ERROR 10:49:09,641 - Greska na liniji 8 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  10:49:09,641 -  Print count calls = 0
+INFO  10:49:09,641 -  Deklarisanih promenljivih ima = 2
+INFO  10:49:09,641 - ===================================
+ERROR 10:49:09,644 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,46 @@
+INFO  17:17:21,186 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:17:21,302 - #4 program
+INFO  17:17:21,302 - #17 P
+INFO  17:17:21,302 - #2 enum
+INFO  17:17:21,305 - #17 Broj
+INFO  17:17:21,305 - #5 {
+INFO  17:17:21,306 - #17 JEDAN
+INFO  17:17:21,306 - #14 =
+INFO  17:17:21,306 - #16 1
+INFO  17:17:21,306 - #10 ,
+INFO  17:17:21,307 - #17 DVA
+INFO  17:17:21,307 - #10 ,
+INFO  17:17:21,308 - #17 PET
+INFO  17:17:21,308 - #14 =
+INFO  17:17:21,308 - #16 5
+INFO  17:17:21,309 - #6 }
+INFO  17:17:21,309 - #17 Broj
+INFO  17:17:21,310 - #17 b
+INFO  17:17:21,312 - #7 ;
+INFO  17:17:21,313 - #5 {
+INFO  17:17:21,314 - #15 void
+INFO  17:17:21,316 - #17 main
+INFO  17:17:21,316 - #8 (
+INFO  17:17:21,316 - #9 )
+INFO  17:17:21,318 - #17 int
+INFO  17:17:21,319 - #17 a
+INFO  17:17:21,319 - #7 ;
+INFO  17:17:21,319 - #5 {
+INFO  17:17:21,320 - #17 a
+INFO  17:17:21,321 - #14 =
+INFO  17:17:21,323 - #29 -
+INFO  17:17:21,325 - #16 4
+INFO  17:17:21,325 - #7 ;
+INFO  17:17:21,327 - #11 print
+INFO  17:17:21,328 - #8 (
+INFO  17:17:21,328 - #16 500
+INFO  17:17:21,329 - #9 )
+INFO  17:17:21,329 - #7 ;
+INFO  17:17:21,329 - #12 return
+INFO  17:17:21,329 - #7 ;
+INFO  17:17:21,330 - #6 }
+INFO  17:17:21,331 - #6 }
+INFO  17:17:21,355 - Obradjuje se funkcija main na liniji 6
+INFO  17:17:21,356 - Print calls = 1
+INFO  17:17:21,358 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:17:21,372 - Parsiranje uspesno zavrseno!

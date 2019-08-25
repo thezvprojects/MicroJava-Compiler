@@ -1,0 +1,10 @@
+INFO  13:30:28,156 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:30:28,624 - #2 program
+INFO  13:30:28,624 - #17 MJProgram
+INFO  13:30:28,624 - #17 int
+INFO  13:30:28,639 - #17 x
+ERROR 13:30:28,639 - 
+Sintaksna greska na liniji 2
+ERROR 13:30:28,639 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2
+INFO  13:30:28,687 - Print calls = 0
+ERROR 13:30:28,687 - Parsiranje NIJE uspesno zavrseno!

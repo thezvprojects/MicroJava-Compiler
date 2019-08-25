@@ -1,0 +1,20 @@
+INFO  13:39:31,791 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:39:31,809 - #2 program
+INFO  13:39:31,809 - #17 MJProgram
+INFO  13:39:31,809 - #17 int
+INFO  13:39:31,810 - #17 x
+INFO  13:39:31,810 - #5 ;
+INFO  13:39:31,810 - #3 {
+INFO  13:39:31,810 - #17 int
+INFO  13:39:31,811 - #17 main
+INFO  13:39:31,811 - #6 (
+INFO  13:39:31,811 - #7 )
+INFO  13:39:31,811 - #17 int
+INFO  13:39:31,811 - #17 x
+INFO  13:39:31,811 - #5 ;
+INFO  13:39:31,812 - #3 {
+INFO  13:39:31,812 - #17 int
+INFO  13:39:31,812 - #17 okay
+INFO  13:39:31,812 - #5 ;
+INFO  13:39:31,812 - #4 }
+INFO  13:39:31,813 - #4 }

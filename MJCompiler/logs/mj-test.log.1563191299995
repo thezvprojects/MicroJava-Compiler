@@ -1,0 +1,37 @@
+INFO  13:47:29,898 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:47:30,009 - #4 program
+INFO  13:47:30,010 - #17 P
+INFO  13:47:30,010 - #2 enum
+INFO  13:47:30,013 - #17 Broj
+INFO  13:47:30,013 - #5 {
+INFO  13:47:30,013 - #17 JEDAN
+INFO  13:47:30,013 - #14 =
+INFO  13:47:30,014 - #16 1
+INFO  13:47:30,014 - #10 ,
+INFO  13:47:30,015 - #17 DVA
+INFO  13:47:30,015 - #10 ,
+INFO  13:47:30,015 - #17 PET
+INFO  13:47:30,016 - #14 =
+INFO  13:47:30,016 - #16 5
+INFO  13:47:30,016 - #6 }
+INFO  13:47:30,016 - #17 Broj
+INFO  13:47:30,017 - #17 b
+INFO  13:47:30,019 - #7 ;
+INFO  13:47:30,021 - #5 {
+INFO  13:47:30,022 - #15 void
+INFO  13:47:30,023 - #17 main
+INFO  13:47:30,024 - #8 (
+INFO  13:47:30,024 - #9 )
+INFO  13:47:30,026 - #17 int
+INFO  13:47:30,027 - #17 a
+INFO  13:47:30,028 - #7 ;
+INFO  13:47:30,028 - #5 {
+INFO  13:47:30,028 - #17 a
+INFO  13:47:30,029 - #14 =
+INFO  13:47:30,030 - #29 -
+INFO  13:47:30,032 - #16 4
+INFO  13:47:30,032 - #7 ;
+INFO  13:47:30,035 - #12 return
+ERROR 13:47:30,035 - 
+Sintaksna greska na liniji 9
+ERROR 13:47:30,035 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

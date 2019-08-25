@@ -1,0 +1,152 @@
+INFO  22:47:51,141 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:47:51,846 - #4 program
+INFO  22:47:51,847 - #17 P
+INFO  22:47:51,847 - #2 enum
+INFO  22:47:51,859 - #17 Broj
+INFO  22:47:51,859 - #5 {
+INFO  22:47:51,860 - #17 JEDAN
+INFO  22:47:51,860 - #14 =
+INFO  22:47:51,860 - #16 1
+INFO  22:47:51,860 - #10 ,
+INFO  22:47:51,861 - #17 DVA
+INFO  22:47:51,861 - #10 ,
+INFO  22:47:51,862 - #17 PET
+INFO  22:47:51,862 - #14 =
+INFO  22:47:51,862 - #16 5
+INFO  22:47:51,863 - #6 }
+INFO  22:47:51,863 - #17 Broj
+INFO  22:47:51,864 - #17 b
+INFO  22:47:51,870 - #7 ;
+INFO  22:47:51,877 - #5 {
+INFO  22:47:51,878 - #15 void
+INFO  22:47:51,884 - #17 main
+INFO  22:47:51,885 - #8 (
+INFO  22:47:51,885 - #9 )
+INFO  22:47:51,891 - #17 int
+INFO  22:47:51,897 - #17 a
+INFO  22:47:51,898 - #7 ;
+INFO  22:47:51,898 - #5 {
+INFO  22:47:51,898 - #17 a
+INFO  22:47:51,904 - #14 =
+INFO  22:47:51,916 - #16 4
+INFO  22:47:51,927 - #7 ;
+INFO  22:47:51,934 - #12 return
+INFO  22:47:51,935 - #7 ;
+INFO  22:47:51,935 - #6 }
+INFO  22:47:51,941 - #6 }
+INFO  22:47:51,982 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                TermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [TermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:47:51,984 - ===================================
+INFO  22:47:52,004 - Obradjuje se funkcija main na liniji 5
+ERROR 22:47:52,005 - Greska na liniji 8: daj Boze da nije ovo greska(const_name pogledaj)
+ERROR 22:47:52,005 - Greska na liniji 8 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  22:47:52,005 -  Print count calls = 0
+INFO  22:47:52,006 -  Deklarisanih promenljivih ima = 2
+INFO  22:47:52,006 - ===================================
+ERROR 22:47:52,009 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,154 @@
+INFO  22:45:30,857 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:45:31,532 - #4 program
+INFO  22:45:31,532 - #17 P
+INFO  22:45:31,532 - #2 enum
+INFO  22:45:31,544 - #17 Broj
+INFO  22:45:31,545 - #5 {
+INFO  22:45:31,545 - #17 JEDAN
+INFO  22:45:31,545 - #14 =
+INFO  22:45:31,545 - #16 1
+INFO  22:45:31,546 - #10 ,
+INFO  22:45:31,546 - #17 DVA
+INFO  22:45:31,547 - #10 ,
+INFO  22:45:31,547 - #17 PET
+INFO  22:45:31,548 - #14 =
+INFO  22:45:31,548 - #16 5
+INFO  22:45:31,548 - #6 }
+INFO  22:45:31,548 - #17 Broj
+INFO  22:45:31,549 - #17 b
+INFO  22:45:31,556 - #7 ;
+INFO  22:45:31,563 - #17 int
+INFO  22:45:31,564 - #17 a
+INFO  22:45:31,564 - #7 ;
+INFO  22:45:31,565 - #5 {
+INFO  22:45:31,565 - #15 void
+INFO  22:45:31,571 - #17 main
+INFO  22:45:31,572 - #8 (
+INFO  22:45:31,572 - #9 )
+INFO  22:45:31,578 - #5 {
+INFO  22:45:31,584 - #17 a
+INFO  22:45:31,590 - #14 =
+INFO  22:45:31,601 - #16 4
+INFO  22:45:31,612 - #7 ;
+INFO  22:45:31,620 - #12 return
+INFO  22:45:31,621 - #7 ;
+INFO  22:45:31,621 - #6 }
+INFO  22:45:31,627 - #6 }
+INFO  22:45:31,677 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      DeclListing(
+        NoDeclListing(
+        ) [NoDeclListing]
+        DeclEnum(
+          EnumDeclFull(
+           Broj
+            EnumDecls(
+              EnumDecls(
+                EnumNoDecls(
+                  EnumDeclDefPart(
+                   JEDAN
+                   1
+                  ) [EnumDeclDefPart]
+                ) [EnumNoDecls]
+                EnumDeclNoDefPart(
+                 DVA
+                ) [EnumDeclNoDefPart]
+              ) [EnumDecls]
+              EnumDeclDefPart(
+               PET
+               5
+              ) [EnumDeclDefPart]
+            ) [EnumDecls]
+          ) [EnumDeclFull]
+        ) [DeclEnum]
+      ) [DeclListing]
+      DeclVar(
+        VarDeclar(
+          Type(
+           Broj
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               b
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [DeclVar]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             a
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                TermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [TermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:45:31,678 - ===================================
+INFO  22:45:31,700 - Obradjuje se funkcija main na liniji 6
+ERROR 22:45:31,701 - Greska na liniji 7: daj Boze da nije ovo greska(const_name pogledaj)
+ERROR 22:45:31,701 - Greska na liniji 7 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  22:45:31,702 -  Print count calls = 0
+INFO  22:45:31,702 -  Deklarisanih promenljivih ima = 2
+INFO  22:45:31,702 - ===================================
+ERROR 22:45:31,705 - Parsiranje NIJE uspesno zavrseno!

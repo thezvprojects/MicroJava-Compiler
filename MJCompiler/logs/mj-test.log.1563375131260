@@ -1,0 +1,159 @@
+INFO  16:51:56,976 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:51:57,114 - #4 program
+INFO  16:51:57,114 - #17 P
+INFO  16:51:57,114 - #2 enum
+INFO  16:51:57,117 - #17 Broj
+INFO  16:51:57,118 - #5 {
+INFO  16:51:57,118 - #17 JEDAN
+INFO  16:51:57,118 - #14 =
+INFO  16:51:57,118 - #16 1
+INFO  16:51:57,118 - #10 ,
+INFO  16:51:57,119 - #17 DVA
+INFO  16:51:57,120 - #10 ,
+INFO  16:51:57,120 - #17 PET
+INFO  16:51:57,120 - #14 =
+INFO  16:51:57,121 - #16 5
+INFO  16:51:57,121 - #6 }
+INFO  16:51:57,121 - #17 Broj
+INFO  16:51:57,122 - #17 b
+INFO  16:51:57,125 - #7 ;
+INFO  16:51:57,128 - #5 {
+INFO  16:51:57,129 - #15 void
+INFO  16:51:57,131 - #17 main
+INFO  16:51:57,131 - #8 (
+INFO  16:51:57,132 - #9 )
+INFO  16:51:57,133 - #17 int
+INFO  16:51:57,135 - #17 a
+INFO  16:51:57,135 - #7 ;
+INFO  16:51:57,135 - #5 {
+INFO  16:51:57,136 - #17 a
+INFO  16:51:57,137 - #14 =
+INFO  16:51:57,139 - #29 -
+INFO  16:51:57,142 - #16 4
+INFO  16:51:57,143 - #7 ;
+INFO  16:51:57,146 - #11 print
+INFO  16:51:57,146 - #8 (
+INFO  16:51:57,146 - #16 500
+INFO  16:51:57,147 - #9 )
+INFO  16:51:57,147 - #7 ;
+INFO  16:51:57,147 - #6 }
+INFO  16:51:57,148 - #6 }
+INFO  16:51:57,166 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      StList(
+        StList(
+          StNoList(
+          ) [StNoList]
+          Assignment(
+            DesStmtExpr(
+              Designator(
+               a
+              ) [Designator]
+              AssignEq(
+              ) [AssignEq]
+              MinusFrontTermExpr(
+                Term(
+                  FactorSolo(
+                    Const(
+                      IntInit(
+                       4
+                      ) [IntInit]
+                    ) [Const]
+                  ) [FactorSolo]
+                ) [Term]
+              ) [MinusFrontTermExpr]
+            ) [DesStmtExpr]
+          ) [Assignment]
+        ) [StList]
+        PrintStmt(
+          TermExpr(
+            Term(
+              FactorSolo(
+                Const(
+                  IntInit(
+                   500
+                  ) [IntInit]
+                ) [Const]
+              ) [FactorSolo]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:51:57,166 - ===================================
+INFO  16:51:57,176 - Obradjuje se funkcija main na liniji 6
+INFO  16:51:57,177 -  Print count calls = 1
+INFO  16:51:57,177 -  Deklarisanih promenljivih ima = 2
+INFO  16:51:57,177 - ===================================
+INFO  16:51:57,179 - Parsiranje uspesno zavrseno!

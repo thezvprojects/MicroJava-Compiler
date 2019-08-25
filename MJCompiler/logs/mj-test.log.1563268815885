@@ -1,0 +1,145 @@
+INFO  10:55:11,688 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:55:11,797 - #4 program
+INFO  10:55:11,812 - #17 P
+INFO  10:55:11,812 - #2 enum
+INFO  10:55:11,812 - #17 Broj
+INFO  10:55:11,812 - #5 {
+INFO  10:55:11,812 - #17 JEDAN
+INFO  10:55:11,812 - #14 =
+INFO  10:55:11,812 - #16 1
+INFO  10:55:11,812 - #10 ,
+INFO  10:55:11,812 - #17 DVA
+INFO  10:55:11,812 - #10 ,
+INFO  10:55:11,812 - #17 PET
+INFO  10:55:11,812 - #14 =
+INFO  10:55:11,812 - #16 5
+INFO  10:55:11,812 - #6 }
+INFO  10:55:11,812 - #17 Broj
+INFO  10:55:11,812 - #17 b
+INFO  10:55:11,812 - #7 ;
+INFO  10:55:11,812 - #5 {
+INFO  10:55:11,812 - #15 void
+INFO  10:55:11,812 - #17 main
+INFO  10:55:11,812 - #8 (
+INFO  10:55:11,812 - #9 )
+INFO  10:55:11,812 - #17 int
+INFO  10:55:11,828 - #17 a
+INFO  10:55:11,828 - #7 ;
+INFO  10:55:11,828 - #5 {
+INFO  10:55:11,828 - #17 a
+INFO  10:55:11,828 - #14 =
+INFO  10:55:11,828 - #29 -
+INFO  10:55:11,828 - #16 4
+INFO  10:55:11,828 - #7 ;
+INFO  10:55:11,828 - #12 return
+INFO  10:55:11,828 - #7 ;
+INFO  10:55:11,828 - #6 }
+INFO  10:55:11,828 - #6 }
+INFO  10:55:11,844 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      StList(
+        StList(
+          StNoList(
+          ) [StNoList]
+          Assignment(
+            DesStmtExpr(
+              Designator(
+               a
+              ) [Designator]
+              AssignEq(
+              ) [AssignEq]
+              MinusFrontTermExpr(
+                Term(
+                  FactorSolo(
+                    Const(
+                      IntInit(
+                       4
+                      ) [IntInit]
+                    ) [Const]
+                  ) [FactorSolo]
+                ) [Term]
+              ) [MinusFrontTermExpr]
+            ) [DesStmtExpr]
+          ) [Assignment]
+        ) [StList]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:55:11,844 - ===================================
+INFO  10:55:11,859 - Obradjuje se funkcija main na liniji 5
+INFO  10:55:11,859 -  Print count calls = 0
+INFO  10:55:11,859 -  Deklarisanih promenljivih ima = 2
+INFO  10:55:11,859 - ===================================
+INFO  10:55:11,859 - Parsiranje uspesno zavrseno!

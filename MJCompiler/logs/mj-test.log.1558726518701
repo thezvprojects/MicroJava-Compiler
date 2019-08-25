@@ -1,0 +1,42 @@
+INFO  21:34:23,736 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:34:24,450 - #4 program
+INFO  21:34:24,451 - #17 Prg
+INFO  21:34:24,451 - #5 {
+INFO  21:34:24,458 - #15 void
+INFO  21:34:24,464 - #17 main
+INFO  21:34:24,464 - #8 (
+INFO  21:34:24,464 - #9 )
+INFO  21:34:24,470 - #5 {
+INFO  21:34:24,478 - #12 return
+INFO  21:34:24,484 - #7 ;
+INFO  21:34:24,485 - #6 }
+INFO  21:34:24,492 - #6 }
+INFO  21:34:24,506 - Program(
+  ProgName(
+   Prg
+  ) [ProgName]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:34:24,507 - ===================================
+INFO  21:34:24,523 -  Print count calls = 0
+INFO  21:34:24,523 -  Deklarisanih promenljivih ima = 0

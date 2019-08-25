@@ -1,0 +1,163 @@
+INFO  11:36:36,529 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:36:36,645 - #4 program
+INFO  11:36:36,646 - #17 P
+INFO  11:36:36,646 - #2 enum
+INFO  11:36:36,648 - #17 Broj
+INFO  11:36:36,648 - #5 {
+INFO  11:36:36,649 - #17 JEDAN
+INFO  11:36:36,649 - #14 =
+INFO  11:36:36,649 - #16 1
+INFO  11:36:36,649 - #10 ,
+INFO  11:36:36,650 - #17 DVA
+INFO  11:36:36,650 - #10 ,
+INFO  11:36:36,651 - #17 PET
+INFO  11:36:36,651 - #14 =
+INFO  11:36:36,651 - #16 5
+INFO  11:36:36,651 - #6 }
+INFO  11:36:36,652 - #17 Broj
+INFO  11:36:36,653 - #17 b
+INFO  11:36:36,654 - #7 ;
+INFO  11:36:36,657 - #5 {
+INFO  11:36:36,658 - #15 void
+INFO  11:36:36,659 - #17 main
+INFO  11:36:36,659 - #8 (
+INFO  11:36:36,660 - #9 )
+INFO  11:36:36,661 - #17 int
+INFO  11:36:36,662 - #17 a
+INFO  11:36:36,662 - #7 ;
+INFO  11:36:36,663 - #5 {
+INFO  11:36:36,663 - #17 a
+INFO  11:36:36,664 - #14 =
+INFO  11:36:36,666 - #29 -
+INFO  11:36:36,668 - #16 4
+INFO  11:36:36,668 - #13 +
+INFO  11:36:36,671 - #16 2
+INFO  11:36:36,673 - #7 ;
+INFO  11:36:36,674 - #12 return
+INFO  11:36:36,675 - #7 ;
+INFO  11:36:36,675 - #6 }
+INFO  11:36:36,677 - #6 }
+INFO  11:36:36,695 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                MinusFrontAddExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                  AddTermSolo(
+                    Addop(
+                    ) [Addop]
+                    Term(
+                      FactorSolo(
+                        Const(
+                          IntInit(
+                           2
+                          ) [IntInit]
+                        ) [Const]
+                      ) [FactorSolo]
+                    ) [Term]
+                  ) [AddTermSolo]
+                ) [MinusFrontAddExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:36:36,695 - ===================================
+INFO  11:36:36,704 - Obradjuje se funkcija main na liniji 5
+ERROR 11:36:36,705 - Greska na liniji 8: nekompatibilni addterm i term(minfrontaddexpr)

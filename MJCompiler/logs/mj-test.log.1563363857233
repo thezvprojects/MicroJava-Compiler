@@ -1,0 +1,47 @@
+INFO  13:00:43,023 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:00:43,139 - #4 program
+INFO  13:00:43,139 - #17 P
+INFO  13:00:43,139 - #2 enum
+INFO  13:00:43,142 - #17 Broj
+INFO  13:00:43,142 - #5 {
+INFO  13:00:43,142 - #17 JEDAN
+INFO  13:00:43,143 - #14 =
+INFO  13:00:43,143 - #16 1
+INFO  13:00:43,143 - #10 ,
+INFO  13:00:43,144 - #17 DVA
+INFO  13:00:43,144 - #10 ,
+INFO  13:00:43,145 - #17 PET
+INFO  13:00:43,145 - #14 =
+INFO  13:00:43,145 - #16 5
+INFO  13:00:43,146 - #6 }
+INFO  13:00:43,146 - #17 Broj
+INFO  13:00:43,147 - #17 b
+INFO  13:00:43,149 - #7 ;
+INFO  13:00:43,150 - #5 {
+INFO  13:00:43,151 - #17 int
+INFO  13:00:43,152 - #17 main
+INFO  13:00:43,153 - #8 (
+INFO  13:00:43,153 - #9 )
+INFO  13:00:43,154 - #17 int
+INFO  13:00:43,156 - #17 a
+INFO  13:00:43,156 - #7 ;
+INFO  13:00:43,156 - #5 {
+INFO  13:00:43,156 - #17 a
+INFO  13:00:43,158 - #14 =
+INFO  13:00:43,159 - #29 -
+INFO  13:00:43,161 - #16 4
+INFO  13:00:43,161 - #7 ;
+INFO  13:00:43,165 - #11 print
+INFO  13:00:43,166 - #8 (
+INFO  13:00:43,166 - #16 500
+INFO  13:00:43,166 - #9 )
+INFO  13:00:43,166 - #7 ;
+INFO  13:00:43,167 - #12 return
+INFO  13:00:43,167 - #16 1
+INFO  13:00:43,167 - #7 ;
+INFO  13:00:43,167 - #6 }
+INFO  13:00:43,168 - #6 }
+INFO  13:00:43,191 - Obradjuje se funkcija main na liniji 6
+INFO  13:00:43,192 - Print calls = 1
+INFO  13:00:43,194 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  13:00:43,208 - Parsiranje uspesno zavrseno!

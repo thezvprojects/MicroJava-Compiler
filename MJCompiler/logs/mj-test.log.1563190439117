@@ -1,0 +1,43 @@
+INFO  13:32:19,963 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:32:20,074 - #4 program
+INFO  13:32:20,074 - #17 P
+INFO  13:32:20,075 - #2 enum
+INFO  13:32:20,078 - #17 Broj
+INFO  13:32:20,078 - #5 {
+INFO  13:32:20,079 - #17 JEDAN
+INFO  13:32:20,079 - #14 =
+INFO  13:32:20,079 - #16 1
+INFO  13:32:20,079 - #10 ,
+INFO  13:32:20,080 - #17 DVA
+INFO  13:32:20,080 - #10 ,
+INFO  13:32:20,081 - #17 PET
+INFO  13:32:20,081 - #14 =
+INFO  13:32:20,081 - #16 5
+INFO  13:32:20,082 - #6 }
+INFO  13:32:20,082 - #17 Broj
+INFO  13:32:20,083 - #17 b
+INFO  13:32:20,085 - #7 ;
+INFO  13:32:20,086 - #5 {
+INFO  13:32:20,087 - #15 void
+INFO  13:32:20,088 - #17 main
+INFO  13:32:20,089 - #8 (
+INFO  13:32:20,089 - #9 )
+INFO  13:32:20,090 - #17 int
+INFO  13:32:20,092 - #17 a
+INFO  13:32:20,092 - #7 ;
+INFO  13:32:20,092 - #5 {
+INFO  13:32:20,093 - #17 a
+INFO  13:32:20,093 - #14 =
+INFO  13:32:20,094 - #29 -
+INFO  13:32:20,096 - #16 4
+INFO  13:32:20,096 - #13 +
+INFO  13:32:20,098 - #16 2
+INFO  13:32:20,100 - #13 +
+INFO  13:32:20,100 - #16 5
+INFO  13:32:20,100 - #13 +
+INFO  13:32:20,101 - #16 1
+INFO  13:32:20,101 - #7 ;
+INFO  13:32:20,102 - #12 return
+ERROR 13:32:20,102 - 
+Sintaksna greska na liniji 9
+ERROR 13:32:20,102 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

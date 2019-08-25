@@ -1,0 +1,222 @@
+INFO  12:19:53,768 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:19:53,903 - #4 program
+INFO  12:19:53,904 - #17 P
+INFO  12:19:53,904 - #2 enum
+INFO  12:19:53,907 - #17 Broj
+INFO  12:19:53,907 - #5 {
+INFO  12:19:53,907 - #17 JEDAN
+INFO  12:19:53,907 - #14 =
+INFO  12:19:53,908 - #16 1
+INFO  12:19:53,908 - #10 ,
+INFO  12:19:53,909 - #17 DVA
+INFO  12:19:53,909 - #10 ,
+INFO  12:19:53,910 - #17 PET
+INFO  12:19:53,911 - #14 =
+INFO  12:19:53,911 - #16 5
+INFO  12:19:53,911 - #6 }
+INFO  12:19:53,911 - #17 Broj
+INFO  12:19:53,914 - #17 b
+INFO  12:19:53,916 - #7 ;
+INFO  12:19:53,920 - #5 {
+INFO  12:19:53,921 - #15 void
+INFO  12:19:53,924 - #17 main
+INFO  12:19:53,924 - #8 (
+INFO  12:19:53,925 - #9 )
+INFO  12:19:53,927 - #17 int
+INFO  12:19:53,930 - #17 a
+INFO  12:19:53,930 - #7 ;
+INFO  12:19:53,930 - #17 int
+INFO  12:19:53,931 - #17 c
+INFO  12:19:53,931 - #7 ;
+INFO  12:19:53,931 - #5 {
+INFO  12:19:53,932 - #17 b
+INFO  12:19:53,933 - #14 =
+INFO  12:19:53,935 - #16 2
+INFO  12:19:53,937 - #7 ;
+INFO  12:19:53,941 - #17 a
+INFO  12:19:53,942 - #14 =
+INFO  12:19:53,942 - #17 c
+INFO  12:19:53,942 - #7 ;
+INFO  12:19:53,946 - #12 return
+INFO  12:19:53,946 - #7 ;
+INFO  12:19:53,946 - #11 print
+INFO  12:19:53,948 - #8 (
+INFO  12:19:53,948 - #18 true
+INFO  12:19:53,948 - #9 )
+INFO  12:19:53,949 - #7 ;
+INFO  12:19:53,949 - #35 read
+INFO  12:19:53,949 - #8 (
+INFO  12:19:53,949 - #17 a
+INFO  12:19:53,949 - #9 )
+INFO  12:19:53,950 - #7 ;
+INFO  12:19:53,950 - #6 }
+INFO  12:19:53,950 - #6 }
+INFO  12:19:53,978 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        LocalVar(
+          NoLocalVar(
+          ) [NoLocalVar]
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            NoVarDecls(
+              VarId(
+                VarName(
+                 a
+                ) [VarName]
+              ) [VarId]
+            ) [NoVarDecls]
+          ) [VarDeclar]
+        ) [LocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               c
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      StList(
+        StList(
+          StList(
+            StList(
+              StList(
+                StNoList(
+                ) [StNoList]
+                Assignment(
+                  DesStmtExpr(
+                    Designator(
+                     b
+                    ) [Designator]
+                    AssignEq(
+                    ) [AssignEq]
+                    TermExpr(
+                      Term(
+                        FactorSolo(
+                          Const(
+                            IntInit(
+                             2
+                            ) [IntInit]
+                          ) [Const]
+                        ) [FactorSolo]
+                      ) [Term]
+                    ) [TermExpr]
+                  ) [DesStmtExpr]
+                ) [Assignment]
+              ) [StList]
+              Assignment(
+                DesStmtExpr(
+                  Designator(
+                   a
+                  ) [Designator]
+                  AssignEq(
+                  ) [AssignEq]
+                  TermExpr(
+                    Term(
+                      FactorSolo(
+                        Var(
+                          Designator(
+                           c
+                          ) [Designator]
+                          NoDesignAdds(
+                          ) [NoDesignAdds]
+                        ) [Var]
+                      ) [FactorSolo]
+                    ) [Term]
+                  ) [TermExpr]
+                ) [DesStmtExpr]
+              ) [Assignment]
+            ) [StList]
+            ReturnNoExpr(
+            ) [ReturnNoExpr]
+          ) [StList]
+          PrintStmt(
+            TermExpr(
+              Term(
+                FactorSolo(
+                  Const(
+                    BoolInit(
+                     true
+                    ) [BoolInit]
+                  ) [Const]
+                ) [FactorSolo]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [StList]
+        ReadStmt(
+          Designator(
+           a
+          ) [Designator]
+        ) [ReadStmt]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  12:19:53,978 - ===================================
+INFO  12:19:53,988 - Obradjuje se funkcija main na liniji 5
+ERROR 12:19:53,989 - Greska na liniji 8 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  12:19:53,990 -  Print count calls = 1
+INFO  12:19:53,990 -  Deklarisanih promenljivih ima = 3
+INFO  12:19:53,990 - ===================================
+ERROR 12:19:53,992 - Parsiranje NIJE uspesno zavrseno!

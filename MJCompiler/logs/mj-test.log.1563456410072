@@ -1,0 +1,86 @@
+INFO  15:24:52,905 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:24:53,021 - #4 program
+INFO  15:24:53,021 - #17 P
+INFO  15:24:53,021 - #2 enum
+INFO  15:24:53,024 - #17 Broj
+INFO  15:24:53,024 - #5 {
+INFO  15:24:53,025 - #17 JEDAN
+INFO  15:24:53,025 - #14 =
+INFO  15:24:53,025 - #16 1
+INFO  15:24:53,025 - #10 ,
+INFO  15:24:53,026 - #17 DVA
+INFO  15:24:53,027 - #10 ,
+INFO  15:24:53,027 - #17 PET
+INFO  15:24:53,027 - #14 =
+INFO  15:24:53,028 - #16 5
+INFO  15:24:53,028 - #6 }
+INFO  15:24:53,028 - #17 Broj
+INFO  15:24:53,029 - #17 b
+INFO  15:24:53,031 - #7 ;
+INFO  15:24:53,033 - #5 {
+INFO  15:24:53,034 - #17 int
+INFO  15:24:53,036 - #17 saberi
+INFO  15:24:53,036 - #8 (
+INFO  15:24:53,037 - #17 int
+INFO  15:24:53,037 - #17 a
+INFO  15:24:53,037 - #10 ,
+INFO  15:24:53,038 - #17 char
+INFO  15:24:53,038 - #17 b
+INFO  15:24:53,038 - #9 )
+INFO  15:24:53,039 - #5 {
+INFO  15:24:53,040 - #12 return
+INFO  15:24:53,042 - #16 17
+INFO  15:24:53,042 - #7 ;
+INFO  15:24:53,044 - #6 }
+INFO  15:24:53,045 - #15 void
+INFO  15:24:53,047 - #17 main
+INFO  15:24:53,048 - #8 (
+INFO  15:24:53,048 - #9 )
+INFO  15:24:53,049 - #17 int
+INFO  15:24:53,050 - #17 r
+INFO  15:24:53,050 - #7 ;
+INFO  15:24:53,050 - #17 int
+INFO  15:24:53,050 - #17 prom
+INFO  15:24:53,051 - #7 ;
+INFO  15:24:53,051 - #17 char
+INFO  15:24:53,051 - #17 niz
+INFO  15:24:53,051 - #33 [
+INFO  15:24:53,051 - #39 ]
+INFO  15:24:53,051 - #7 ;
+INFO  15:24:53,052 - #5 {
+INFO  15:24:53,052 - #17 niz
+INFO  15:24:53,052 - #14 =
+INFO  15:24:53,054 - #24 new
+INFO  15:24:53,055 - #17 char
+INFO  15:24:53,056 - #33 [
+INFO  15:24:53,056 - #16 10
+INFO  15:24:53,056 - #39 ]
+INFO  15:24:53,056 - #7 ;
+INFO  15:24:53,057 - #17 prom
+INFO  15:24:53,057 - #14 =
+INFO  15:24:53,057 - #16 5
+INFO  15:24:53,058 - #29 -
+INFO  15:24:53,058 - #16 2
+INFO  15:24:53,060 - #7 ;
+INFO  15:24:53,061 - #17 r
+INFO  15:24:53,061 - #14 =
+INFO  15:24:53,061 - #17 saberi
+INFO  15:24:53,061 - #8 (
+INFO  15:24:53,063 - #17 prom
+INFO  15:24:53,063 - #10 ,
+INFO  15:24:53,064 - #16 3
+INFO  15:24:53,064 - #9 )
+INFO  15:24:53,065 - #7 ;
+INFO  15:24:53,065 - #11 print
+INFO  15:24:53,065 - #8 (
+INFO  15:24:53,066 - #17 r
+INFO  15:24:53,066 - #9 )
+INFO  15:24:53,066 - #7 ;
+INFO  15:24:53,066 - #6 }
+INFO  15:24:53,066 - #6 }
+INFO  15:24:53,089 - Obradjuje se funkcija saberi na liniji 8
+INFO  15:24:53,090 - Obradjuje se funkcija main na liniji 14
+INFO  15:24:53,091 - Pronadjen poziv funkcije saberi na liniji 19
+INFO  15:24:53,091 - Print calls = 1
+INFO  15:24:53,093 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:24:53,110 - Parsiranje uspesno zavrseno!

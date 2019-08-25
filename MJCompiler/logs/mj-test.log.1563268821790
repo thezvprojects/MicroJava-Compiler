@@ -1,0 +1,179 @@
+INFO  11:20:15,929 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:20:16,071 - #4 program
+INFO  11:20:16,071 - #17 P
+INFO  11:20:16,071 - #2 enum
+INFO  11:20:16,074 - #17 Broj
+INFO  11:20:16,074 - #5 {
+INFO  11:20:16,074 - #17 JEDAN
+INFO  11:20:16,075 - #14 =
+INFO  11:20:16,075 - #16 1
+INFO  11:20:16,075 - #10 ,
+INFO  11:20:16,076 - #17 DVA
+INFO  11:20:16,076 - #10 ,
+INFO  11:20:16,077 - #17 PET
+INFO  11:20:16,077 - #14 =
+INFO  11:20:16,077 - #16 5
+INFO  11:20:16,077 - #6 }
+INFO  11:20:16,078 - #17 Broj
+INFO  11:20:16,079 - #17 b
+INFO  11:20:16,080 - #7 ;
+INFO  11:20:16,082 - #5 {
+INFO  11:20:16,083 - #15 void
+INFO  11:20:16,084 - #17 main
+INFO  11:20:16,084 - #8 (
+INFO  11:20:16,085 - #9 )
+INFO  11:20:16,086 - #17 int
+INFO  11:20:16,088 - #17 a
+INFO  11:20:16,088 - #7 ;
+INFO  11:20:16,088 - #5 {
+INFO  11:20:16,089 - #17 a
+INFO  11:20:16,090 - #14 =
+INFO  11:20:16,091 - #29 -
+INFO  11:20:16,093 - #16 4
+INFO  11:20:16,093 - #7 ;
+INFO  11:20:16,096 - #12 return
+INFO  11:20:16,097 - #7 ;
+INFO  11:20:16,097 - #11 print
+INFO  11:20:16,098 - #8 (
+INFO  11:20:16,098 - #17 a
+INFO  11:20:16,099 - #13 +
+INFO  11:20:16,100 - #16 2
+INFO  11:20:16,101 - #9 )
+INFO  11:20:16,102 - #7 ;
+INFO  11:20:16,102 - #6 }
+INFO  11:20:16,102 - #6 }
+INFO  11:20:16,109 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      StList(
+        StList(
+          StList(
+            StNoList(
+            ) [StNoList]
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                 a
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                MinusFrontTermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [MinusFrontTermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [StList]
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [StList]
+        PrintStmt(
+          AddExpr(
+            Term(
+              FactorSolo(
+                Var(
+                  Designator(
+                   a
+                  ) [Designator]
+                  NoDesignAdds(
+                  ) [NoDesignAdds]
+                ) [Var]
+              ) [FactorSolo]
+            ) [Term]
+            AddTermSolo(
+              Addop(
+              ) [Addop]
+              Term(
+                FactorSolo(
+                  Const(
+                    IntInit(
+                     2
+                    ) [IntInit]
+                  ) [Const]
+                ) [FactorSolo]
+              ) [Term]
+            ) [AddTermSolo]
+          ) [AddExpr]
+        ) [PrintStmt]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:20:16,109 - ===================================
+INFO  11:20:16,128 -  Print count calls = 1
+INFO  11:20:16,129 -  Deklarisanih promenljivih ima = 0

@@ -1,0 +1,211 @@
+INFO  11:38:42,169 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:38:42,292 - #4 program
+INFO  11:38:42,293 - #17 P
+INFO  11:38:42,293 - #2 enum
+INFO  11:38:42,295 - #17 Broj
+INFO  11:38:42,296 - #5 {
+INFO  11:38:42,296 - #17 JEDAN
+INFO  11:38:42,296 - #14 =
+INFO  11:38:42,296 - #16 1
+INFO  11:38:42,297 - #10 ,
+INFO  11:38:42,297 - #17 DVA
+INFO  11:38:42,298 - #10 ,
+INFO  11:38:42,298 - #17 PET
+INFO  11:38:42,298 - #14 =
+INFO  11:38:42,299 - #16 5
+INFO  11:38:42,299 - #6 }
+INFO  11:38:42,299 - #17 Broj
+INFO  11:38:42,300 - #17 b
+INFO  11:38:42,302 - #7 ;
+INFO  11:38:42,305 - #5 {
+INFO  11:38:42,306 - #15 void
+INFO  11:38:42,308 - #17 main
+INFO  11:38:42,308 - #8 (
+INFO  11:38:42,309 - #9 )
+INFO  11:38:42,310 - #17 int
+INFO  11:38:42,311 - #17 a
+INFO  11:38:42,311 - #7 ;
+INFO  11:38:42,312 - #5 {
+INFO  11:38:42,312 - #17 a
+INFO  11:38:42,313 - #14 =
+INFO  11:38:42,316 - #29 -
+INFO  11:38:42,318 - #16 4
+INFO  11:38:42,318 - #13 +
+INFO  11:38:42,320 - #16 2
+INFO  11:38:42,321 - #13 +
+INFO  11:38:42,322 - #16 5
+INFO  11:38:42,322 - #13 +
+INFO  11:38:42,323 - #16 1
+INFO  11:38:42,323 - #13 +
+INFO  11:38:42,324 - #16 22
+INFO  11:38:42,324 - #7 ;
+INFO  11:38:42,325 - #12 return
+INFO  11:38:42,326 - #7 ;
+INFO  11:38:42,326 - #6 }
+INFO  11:38:42,327 - #6 }
+INFO  11:38:42,345 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                MinusFrontAddExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                  AddTermListing(
+                    AddTermListing(
+                      AddTermListing(
+                        AddTermSolo(
+                          Addop(
+                          ) [Addop]
+                          Term(
+                            FactorSolo(
+                              Const(
+                                IntInit(
+                                 2
+                                ) [IntInit]
+                              ) [Const]
+                            ) [FactorSolo]
+                          ) [Term]
+                        ) [AddTermSolo]
+                        Addop(
+                        ) [Addop]
+                        Term(
+                          FactorSolo(
+                            Const(
+                              IntInit(
+                               5
+                              ) [IntInit]
+                            ) [Const]
+                          ) [FactorSolo]
+                        ) [Term]
+                      ) [AddTermListing]
+                      Addop(
+                      ) [Addop]
+                      Term(
+                        FactorSolo(
+                          Const(
+                            IntInit(
+                             1
+                            ) [IntInit]
+                          ) [Const]
+                        ) [FactorSolo]
+                      ) [Term]
+                    ) [AddTermListing]
+                    Addop(
+                    ) [Addop]
+                    Term(
+                      FactorSolo(
+                        Const(
+                          IntInit(
+                           22
+                          ) [IntInit]
+                        ) [Const]
+                      ) [FactorSolo]
+                    ) [Term]
+                  ) [AddTermListing]
+                ) [MinusFrontAddExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:38:42,345 - ===================================
+INFO  11:38:42,354 - Obradjuje se funkcija main na liniji 5
+INFO  11:38:42,355 -  Print count calls = 0
+INFO  11:38:42,355 -  Deklarisanih promenljivih ima = 2
+INFO  11:38:42,355 - ===================================
+INFO  11:38:42,357 - Parsiranje uspesno zavrseno!

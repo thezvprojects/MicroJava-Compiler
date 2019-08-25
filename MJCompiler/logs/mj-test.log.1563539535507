@@ -1,0 +1,73 @@
+INFO  14:29:40,932 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:29:41,046 - #4 program
+INFO  14:29:41,046 - #17 P
+INFO  14:29:41,047 - #2 enum
+INFO  14:29:41,050 - #17 Broj
+INFO  14:29:41,050 - #5 {
+INFO  14:29:41,050 - #17 JEDAN
+INFO  14:29:41,050 - #14 =
+INFO  14:29:41,051 - #16 1
+INFO  14:29:41,051 - #10 ,
+INFO  14:29:41,052 - #17 DVA
+INFO  14:29:41,052 - #10 ,
+INFO  14:29:41,053 - #17 PET
+INFO  14:29:41,053 - #14 =
+INFO  14:29:41,053 - #16 5
+INFO  14:29:41,053 - #6 }
+INFO  14:29:41,053 - #17 Broj
+INFO  14:29:41,055 - #17 b
+INFO  14:29:41,056 - #7 ;
+INFO  14:29:41,058 - #17 int
+INFO  14:29:41,059 - #17 nnn
+INFO  14:29:41,059 - #7 ;
+INFO  14:29:41,059 - #5 {
+INFO  14:29:41,060 - #17 int
+INFO  14:29:41,061 - #17 saberi
+INFO  14:29:41,061 - #8 (
+INFO  14:29:41,062 - #17 int
+INFO  14:29:41,062 - #17 a
+INFO  14:29:41,062 - #10 ,
+INFO  14:29:41,063 - #17 int
+INFO  14:29:41,063 - #17 b
+INFO  14:29:41,064 - #9 )
+INFO  14:29:41,065 - #5 {
+INFO  14:29:41,066 - #12 return
+INFO  14:29:41,068 - #16 11
+INFO  14:29:41,068 - #7 ;
+INFO  14:29:41,071 - #6 }
+INFO  14:29:41,072 - #15 void
+INFO  14:29:41,074 - #17 main
+INFO  14:29:41,074 - #8 (
+INFO  14:29:41,075 - #9 )
+INFO  14:29:41,076 - #17 int
+INFO  14:29:41,076 - #17 r
+INFO  14:29:41,076 - #7 ;
+INFO  14:29:41,076 - #17 int
+INFO  14:29:41,077 - #17 prom
+INFO  14:29:41,077 - #7 ;
+INFO  14:29:41,077 - #17 char
+INFO  14:29:41,077 - #17 niz
+INFO  14:29:41,077 - #33 [
+INFO  14:29:41,077 - #39 ]
+INFO  14:29:41,078 - #7 ;
+INFO  14:29:41,078 - #5 {
+INFO  14:29:41,078 - #17 prom
+INFO  14:29:41,078 - #14 =
+INFO  14:29:41,080 - #16 5
+INFO  14:29:41,081 - #29 -
+INFO  14:29:41,082 - #16 2
+INFO  14:29:41,083 - #43 *
+INFO  14:29:41,084 - #16 3
+INFO  14:29:41,085 - #7 ;
+INFO  14:29:41,087 - #11 print
+INFO  14:29:41,088 - #8 (
+INFO  14:29:41,088 - #17 prom
+INFO  14:29:41,088 - #9 )
+INFO  14:29:41,090 - #7 ;
+INFO  14:29:41,090 - #6 }
+INFO  14:29:41,090 - #6 }
+INFO  14:29:41,117 - Obradjuje se funkcija saberi na liniji 9
+INFO  14:29:41,118 - Obradjuje se funkcija main na liniji 15
+INFO  14:29:41,119 - Print calls = 1
+INFO  14:29:41,121 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  14:29:41,140 - Parsiranje uspesno zavrseno!

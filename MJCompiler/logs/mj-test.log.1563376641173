@@ -1,0 +1,165 @@
+INFO  17:17:17,330 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:17:17,444 - #4 program
+INFO  17:17:17,444 - #17 P
+INFO  17:17:17,445 - #2 enum
+INFO  17:17:17,447 - #17 Broj
+INFO  17:17:17,447 - #5 {
+INFO  17:17:17,448 - #17 JEDAN
+INFO  17:17:17,448 - #14 =
+INFO  17:17:17,448 - #16 1
+INFO  17:17:17,448 - #10 ,
+INFO  17:17:17,449 - #17 DVA
+INFO  17:17:17,449 - #10 ,
+INFO  17:17:17,450 - #17 PET
+INFO  17:17:17,450 - #14 =
+INFO  17:17:17,450 - #16 5
+INFO  17:17:17,451 - #6 }
+INFO  17:17:17,451 - #17 Broj
+INFO  17:17:17,452 - #17 b
+INFO  17:17:17,454 - #7 ;
+INFO  17:17:17,456 - #5 {
+INFO  17:17:17,457 - #15 void
+INFO  17:17:17,458 - #17 main
+INFO  17:17:17,458 - #8 (
+INFO  17:17:17,459 - #9 )
+INFO  17:17:17,460 - #17 int
+INFO  17:17:17,462 - #17 a
+INFO  17:17:17,462 - #7 ;
+INFO  17:17:17,462 - #5 {
+INFO  17:17:17,463 - #17 a
+INFO  17:17:17,464 - #14 =
+INFO  17:17:17,466 - #29 -
+INFO  17:17:17,468 - #16 4
+INFO  17:17:17,468 - #7 ;
+INFO  17:17:17,471 - #11 print
+INFO  17:17:17,471 - #8 (
+INFO  17:17:17,472 - #16 500
+INFO  17:17:17,472 - #9 )
+INFO  17:17:17,472 - #7 ;
+INFO  17:17:17,472 - #12 return
+INFO  17:17:17,473 - #7 ;
+INFO  17:17:17,473 - #6 }
+INFO  17:17:17,474 - #6 }
+INFO  17:17:17,492 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      StList(
+        StList(
+          StList(
+            StNoList(
+            ) [StNoList]
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                 a
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                MinusFrontTermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [MinusFrontTermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [StList]
+          PrintStmt(
+            TermExpr(
+              Term(
+                FactorSolo(
+                  Const(
+                    IntInit(
+                     500
+                    ) [IntInit]
+                  ) [Const]
+                ) [FactorSolo]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [StList]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:17:17,492 - ===================================
+INFO  17:17:17,502 - Obradjuje se funkcija main na liniji 6
+INFO  17:17:17,502 -  Print count calls = 1
+INFO  17:17:17,503 -  Deklarisanih promenljivih ima = 2
+INFO  17:17:17,503 - ===================================
+INFO  17:17:17,505 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,1697 @@
+INFO  12:35:54,832 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:35:54,957 - #4 program
+INFO  12:35:54,957 - #17 test301
+INFO  12:35:54,957 - #2 enum
+INFO  12:35:54,960 - #17 Broj
+INFO  12:35:54,960 - #5 {
+INFO  12:35:54,961 - #17 NULA
+INFO  12:35:54,961 - #10 ,
+INFO  12:35:54,962 - #17 JEDAN
+INFO  12:35:54,962 - #10 ,
+INFO  12:35:54,963 - #17 PET
+INFO  12:35:54,963 - #14 =
+INFO  12:35:54,963 - #16 5
+INFO  12:35:54,963 - #10 ,
+INFO  12:35:54,964 - #17 DESET
+INFO  12:35:54,964 - #14 =
+INFO  12:35:54,964 - #16 10
+INFO  12:35:54,964 - #6 }
+INFO  12:35:54,965 - #17 int
+INFO  12:35:54,966 - #17 niz
+INFO  12:35:54,968 - #33 [
+INFO  12:35:54,969 - #39 ]
+INFO  12:35:54,969 - #7 ;
+INFO  12:35:54,970 - #17 char
+INFO  12:35:54,971 - #17 nizch
+INFO  12:35:54,972 - #33 [
+INFO  12:35:54,972 - #39 ]
+INFO  12:35:54,972 - #7 ;
+INFO  12:35:54,972 - #5 {
+INFO  12:35:54,972 - #17 int
+INFO  12:35:54,974 - #17 inc
+INFO  12:35:54,974 - #8 (
+INFO  12:35:54,975 - #17 int
+INFO  12:35:54,975 - #17 broj
+INFO  12:35:54,975 - #10 ,
+INFO  12:35:54,976 - #17 int
+INFO  12:35:54,976 - #17 xd
+INFO  12:35:54,976 - #10 ,
+INFO  12:35:54,977 - #17 int
+INFO  12:35:54,977 - #17 xp
+INFO  12:35:54,977 - #9 )
+INFO  12:35:54,977 - #5 {
+INFO  12:35:54,979 - #12 return
+INFO  12:35:54,980 - #17 xp
+INFO  12:35:54,980 - #7 ;
+INFO  12:35:54,985 - #6 }
+INFO  12:35:54,986 - #15 void
+INFO  12:35:54,988 - #17 main
+INFO  12:35:54,989 - #8 (
+INFO  12:35:54,989 - #9 )
+INFO  12:35:54,990 - #17 int
+INFO  12:35:54,990 - #17 bodovi
+INFO  12:35:54,990 - #7 ;
+INFO  12:35:54,991 - #17 Broj
+INFO  12:35:54,991 - #17 nula
+INFO  12:35:54,992 - #10 ,
+INFO  12:35:54,992 - #17 dva
+INFO  12:35:54,992 - #7 ;
+INFO  12:35:54,992 - #5 {
+INFO  12:35:54,993 - #17 bodovi
+INFO  12:35:54,993 - #14 =
+INFO  12:35:54,993 - #16 3
+INFO  12:35:54,995 - #7 ;
+INFO  12:35:54,997 - #17 niz
+INFO  12:35:54,997 - #14 =
+INFO  12:35:54,997 - #24 new
+INFO  12:35:54,997 - #17 int
+INFO  12:35:54,998 - #33 [
+INFO  12:35:54,998 - #16 2
+INFO  12:35:54,998 - #39 ]
+INFO  12:35:54,998 - #7 ;
+INFO  12:35:54,999 - #17 niz
+INFO  12:35:54,999 - #33 [
+INFO  12:35:54,999 - #16 0
+INFO  12:35:55,001 - #39 ]
+INFO  12:35:55,001 - #14 =
+INFO  12:35:55,004 - #16 5
+INFO  12:35:55,005 - #7 ;
+INFO  12:35:55,005 - #17 niz
+INFO  12:35:55,005 - #33 [
+INFO  12:35:55,005 - #16 1
+INFO  12:35:55,005 - #39 ]
+INFO  12:35:55,005 - #14 =
+INFO  12:35:55,006 - #16 3
+INFO  12:35:55,006 - #7 ;
+INFO  12:35:55,006 - #17 bodovi
+INFO  12:35:55,006 - #14 =
+INFO  12:35:55,006 - #17 niz
+INFO  12:35:55,006 - #33 [
+INFO  12:35:55,007 - #16 1
+INFO  12:35:55,007 - #39 ]
+INFO  12:35:55,007 - #13 +
+INFO  12:35:55,007 - #17 niz
+INFO  12:35:55,009 - #33 [
+INFO  12:35:55,010 - #16 0
+INFO  12:35:55,010 - #39 ]
+INFO  12:35:55,010 - #7 ;
+INFO  12:35:55,011 - #17 bodovi
+INFO  12:35:55,011 - #36 ++
+INFO  12:35:55,011 - #7 ;
+INFO  12:35:55,012 - #17 bodovi
+INFO  12:35:55,012 - #14 =
+INFO  12:35:55,012 - #17 inc
+INFO  12:35:55,012 - #8 (
+INFO  12:35:55,012 - #17 bodovi
+INFO  12:35:55,012 - #10 ,
+INFO  12:35:55,013 - #16 17
+INFO  12:35:55,013 - #10 ,
+INFO  12:35:55,014 - #16 19
+INFO  12:35:55,014 - #9 )
+INFO  12:35:55,014 - #7 ;
+INFO  12:35:55,015 - #11 print
+INFO  12:35:55,015 - #8 (
+INFO  12:35:55,015 - #17 bodovi
+INFO  12:35:55,015 - #9 )
+INFO  12:35:55,016 - #7 ;
+INFO  12:35:55,016 - #6 }
+INFO  12:35:55,016 - #6 }
+INFO  12:35:55,101 - Obradjuje se funkcija inc na liniji 11
+INFO  12:35:55,102 - Obradjuje se funkcija main na liniji 21
+INFO  12:39:50,631 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:39:50,744 - #4 program
+INFO  12:39:50,744 - #17 test301
+INFO  12:39:50,745 - #2 enum
+INFO  12:39:50,747 - #17 Broj
+INFO  12:39:50,748 - #5 {
+INFO  12:39:50,748 - #17 NULA
+INFO  12:39:50,748 - #10 ,
+INFO  12:39:50,749 - #17 JEDAN
+INFO  12:39:50,749 - #10 ,
+INFO  12:39:50,749 - #17 PET
+INFO  12:39:50,749 - #14 =
+INFO  12:39:50,750 - #16 5
+INFO  12:39:50,750 - #10 ,
+INFO  12:39:50,750 - #17 DESET
+INFO  12:39:50,751 - #14 =
+INFO  12:39:50,751 - #16 10
+INFO  12:39:50,751 - #6 }
+INFO  12:39:50,751 - #17 int
+INFO  12:39:50,752 - #17 niz
+INFO  12:39:50,756 - #33 [
+INFO  12:39:50,757 - #39 ]
+INFO  12:39:50,758 - #7 ;
+INFO  12:39:50,758 - #17 char
+INFO  12:39:50,759 - #17 nizch
+INFO  12:39:50,759 - #33 [
+INFO  12:39:50,759 - #39 ]
+INFO  12:39:50,760 - #7 ;
+INFO  12:39:50,760 - #5 {
+INFO  12:39:50,760 - #17 int
+INFO  12:39:50,761 - #17 inc
+INFO  12:39:50,762 - #8 (
+INFO  12:39:50,762 - #17 int
+INFO  12:39:50,762 - #17 broj
+INFO  12:39:50,762 - #10 ,
+INFO  12:39:50,763 - #17 int
+INFO  12:39:50,763 - #17 xd
+INFO  12:39:50,763 - #10 ,
+INFO  12:39:50,764 - #17 int
+INFO  12:39:50,764 - #17 xp
+INFO  12:39:50,764 - #9 )
+INFO  12:39:50,765 - #5 {
+INFO  12:39:50,766 - #12 return
+INFO  12:39:50,767 - #17 xp
+INFO  12:39:50,767 - #7 ;
+INFO  12:39:50,772 - #6 }
+INFO  12:39:50,773 - #15 void
+INFO  12:39:50,775 - #17 main
+INFO  12:39:50,775 - #8 (
+INFO  12:39:50,776 - #9 )
+INFO  12:39:50,777 - #17 int
+INFO  12:39:50,777 - #17 bodovi
+INFO  12:39:50,777 - #7 ;
+INFO  12:39:50,778 - #17 Broj
+INFO  12:39:50,778 - #17 nula
+INFO  12:39:50,778 - #10 ,
+INFO  12:39:50,778 - #17 dva
+INFO  12:39:50,778 - #7 ;
+INFO  12:39:50,779 - #5 {
+INFO  12:39:50,779 - #17 bodovi
+INFO  12:39:50,779 - #14 =
+INFO  12:39:50,779 - #16 3
+INFO  12:39:50,781 - #7 ;
+INFO  12:39:50,783 - #17 niz
+INFO  12:39:50,783 - #14 =
+INFO  12:39:50,783 - #24 new
+INFO  12:39:50,783 - #17 int
+INFO  12:39:50,783 - #33 [
+INFO  12:39:50,784 - #16 2
+INFO  12:39:50,784 - #39 ]
+INFO  12:39:50,784 - #7 ;
+INFO  12:39:50,784 - #17 niz
+INFO  12:39:50,785 - #33 [
+INFO  12:39:50,785 - #16 0
+INFO  12:39:50,788 - #39 ]
+INFO  12:39:50,788 - #14 =
+INFO  12:39:50,790 - #16 5
+INFO  12:39:50,790 - #7 ;
+INFO  12:39:50,790 - #17 niz
+INFO  12:39:50,791 - #33 [
+INFO  12:39:50,791 - #16 1
+INFO  12:39:50,791 - #39 ]
+INFO  12:39:50,791 - #14 =
+INFO  12:39:50,791 - #16 3
+INFO  12:39:50,791 - #7 ;
+INFO  12:39:50,792 - #17 bodovi
+INFO  12:39:50,792 - #14 =
+INFO  12:39:50,792 - #17 niz
+INFO  12:39:50,792 - #33 [
+INFO  12:39:50,792 - #16 1
+INFO  12:39:50,792 - #39 ]
+INFO  12:39:50,793 - #13 +
+INFO  12:39:50,793 - #17 niz
+INFO  12:39:50,795 - #33 [
+INFO  12:39:50,795 - #16 0
+INFO  12:39:50,795 - #39 ]
+INFO  12:39:50,795 - #7 ;
+INFO  12:39:50,796 - #17 bodovi
+INFO  12:39:50,796 - #36 ++
+INFO  12:39:50,797 - #7 ;
+INFO  12:39:50,797 - #17 bodovi
+INFO  12:39:50,797 - #14 =
+INFO  12:39:50,797 - #17 inc
+INFO  12:39:50,797 - #8 (
+INFO  12:39:50,797 - #17 bodovi
+INFO  12:39:50,798 - #10 ,
+INFO  12:39:50,798 - #16 17
+INFO  12:39:50,798 - #10 ,
+INFO  12:39:50,799 - #16 19
+INFO  12:39:50,799 - #9 )
+INFO  12:39:50,799 - #7 ;
+INFO  12:39:50,800 - #11 print
+INFO  12:39:50,800 - #8 (
+INFO  12:39:50,800 - #17 bodovi
+INFO  12:39:50,800 - #9 )
+INFO  12:39:50,801 - #7 ;
+INFO  12:39:50,801 - #6 }
+INFO  12:39:50,801 - #6 }
+INFO  12:39:50,821 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      DeclListing(
+        NoDeclListing(
+        ) [NoDeclListing]
+        DeclEnum(
+          EnumDeclFull(
+           Broj
+            EnumDecls(
+              EnumDecls(
+                EnumDecls(
+                  EnumNoDecls(
+                    EnumDeclNoDefPart(
+                     NULA
+                    ) [EnumDeclNoDefPart]
+                  ) [EnumNoDecls]
+                  EnumDeclNoDefPart(
+                   JEDAN
+                  ) [EnumDeclNoDefPart]
+                ) [EnumDecls]
+                EnumDeclDefPart(
+                 PET
+                 5
+                ) [EnumDeclDefPart]
+              ) [EnumDecls]
+              EnumDeclDefPart(
+               DESET
+               10
+              ) [EnumDeclDefPart]
+            ) [EnumDecls]
+          ) [EnumDeclFull]
+        ) [DeclEnum]
+      ) [DeclListing]
+      DeclVar(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarArrId(
+              VarName(
+               niz
+              ) [VarName]
+            ) [VarArrId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [DeclVar]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         char
+        ) [Type]
+        NoVarDecls(
+          VarArrId(
+            VarName(
+             nizch
+            ) [VarName]
+          ) [VarArrId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTName(
+          Type(
+           int
+          ) [Type]
+         inc
+        ) [MethodTName]
+        FormParams(
+          FormalParamDecls(
+            FormalParamDecls(
+              SingleFormalParamDecl(
+                FormalParamDeclSingle(
+                  Type(
+                   int
+                  ) [Type]
+                 broj
+                ) [FormalParamDeclSingle]
+              ) [SingleFormalParamDecl]
+              FormalParamDeclSingle(
+                Type(
+                 int
+                ) [Type]
+               xd
+              ) [FormalParamDeclSingle]
+            ) [FormalParamDecls]
+            FormalParamDeclSingle(
+              Type(
+               int
+              ) [Type]
+             xp
+            ) [FormalParamDeclSingle]
+          ) [FormalParamDecls]
+        ) [FormParams]
+        NoLocalVar(
+        ) [NoLocalVar]
+        StList(
+          StNoList(
+          ) [StNoList]
+          ReturnExpr(
+            TermExpr(
+              Term(
+                FactorSolo(
+                  Var(
+                    Designator(
+                     xp
+                      NoDesignAdds(
+                      ) [NoDesignAdds]
+                    ) [Designator]
+                  ) [Var]
+                ) [FactorSolo]
+              ) [Term]
+            ) [TermExpr]
+          ) [ReturnExpr]
+        ) [StList]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        LocalVar(
+          NoLocalVar(
+          ) [NoLocalVar]
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            NoVarDecls(
+              VarId(
+                VarName(
+                 bodovi
+                ) [VarName]
+              ) [VarId]
+            ) [NoVarDecls]
+          ) [VarDeclar]
+        ) [LocalVar]
+        VarDeclar(
+          Type(
+           Broj
+          ) [Type]
+          VarDeclarations(
+            NoVarDecls(
+              VarId(
+                VarName(
+                 nula
+                ) [VarName]
+              ) [VarId]
+            ) [NoVarDecls]
+            VarId(
+              VarName(
+               dva
+              ) [VarName]
+            ) [VarId]
+          ) [VarDeclarations]
+        ) [VarDeclar]
+      ) [LocalVar]
+      StList(
+        StList(
+          StList(
+            StList(
+              StList(
+                StList(
+                  StList(
+                    StList(
+                      StNoList(
+                      ) [StNoList]
+                      Assignment(
+                        DesStmtExpr(
+                          Designator(
+                           bodovi
+                            NoDesignAdds(
+                            ) [NoDesignAdds]
+                          ) [Designator]
+                          AssignEq(
+                          ) [AssignEq]
+                          TermExpr(
+                            Term(
+                              FactorSolo(
+                                Const(
+                                  IntInit(
+                                   3
+                                  ) [IntInit]
+                                ) [Const]
+                              ) [FactorSolo]
+                            ) [Term]
+                          ) [TermExpr]
+                        ) [DesStmtExpr]
+                      ) [Assignment]
+                    ) [StList]
+                    Assignment(
+                      DesStmtExpr(
+                        Designator(
+                         niz
+                          NoDesignAdds(
+                          ) [NoDesignAdds]
+                        ) [Designator]
+                        AssignEq(
+                        ) [AssignEq]
+                        TermExpr(
+                          Term(
+                            FactorSolo(
+                              NewWExpr(
+                                Type(
+                                 int
+                                ) [Type]
+                                TermExpr(
+                                  Term(
+                                    FactorSolo(
+                                      Const(
+                                        IntInit(
+                                         2
+                                        ) [IntInit]
+                                      ) [Const]
+                                    ) [FactorSolo]
+                                  ) [Term]
+                                ) [TermExpr]
+                              ) [NewWExpr]
+                            ) [FactorSolo]
+                          ) [Term]
+                        ) [TermExpr]
+                      ) [DesStmtExpr]
+                    ) [Assignment]
+                  ) [StList]
+                  Assignment(
+                    DesStmtExpr(
+                      Designator(
+                       niz
+                        DesignListOnlyExpr(
+                          LBracket(
+                          ) [LBracket]
+                          TermExpr(
+                            Term(
+                              FactorSolo(
+                                Const(
+                                  IntInit(
+                                   0
+                                  ) [IntInit]
+                                ) [Const]
+                              ) [FactorSolo]
+                            ) [Term]
+                          ) [TermExpr]
+                          RBracket(
+                          ) [RBracket]
+                        ) [DesignListOnlyExpr]
+                      ) [Designator]
+                      AssignEq(
+                      ) [AssignEq]
+                      TermExpr(
+                        Term(
+                          FactorSolo(
+                            Const(
+                              IntInit(
+                               5
+                              ) [IntInit]
+                            ) [Const]
+                          ) [FactorSolo]
+                        ) [Term]
+                      ) [TermExpr]
+                    ) [DesStmtExpr]
+                  ) [Assignment]
+                ) [StList]
+                Assignment(
+                  DesStmtExpr(
+                    Designator(
+                     niz
+                      DesignListOnlyExpr(
+                        LBracket(
+                        ) [LBracket]
+                        TermExpr(
+                          Term(
+                            FactorSolo(
+                              Const(
+                                IntInit(
+                                 1
+                                ) [IntInit]
+                              ) [Const]
+                            ) [FactorSolo]
+                          ) [Term]
+                        ) [TermExpr]
+                        RBracket(
+                        ) [RBracket]
+                      ) [DesignListOnlyExpr]
+                    ) [Designator]
+                    AssignEq(
+                    ) [AssignEq]
+                    TermExpr(
+                      Term(
+                        FactorSolo(
+                          Const(
+                            IntInit(
+                             3
+                            ) [IntInit]
+                          ) [Const]
+                        ) [FactorSolo]
+                      ) [Term]
+                    ) [TermExpr]
+                  ) [DesStmtExpr]
+                ) [Assignment]
+              ) [StList]
+              Assignment(
+                DesStmtExpr(
+                  Designator(
+                   bodovi
+                    NoDesignAdds(
+                    ) [NoDesignAdds]
+                  ) [Designator]
+                  AssignEq(
+                  ) [AssignEq]
+                  AddExpr(
+                    Term(
+                      FactorSolo(
+                        Var(
+                          Designator(
+                           niz
+                            DesignListOnlyExpr(
+                              LBracket(
+                              ) [LBracket]
+                              TermExpr(
+                                Term(
+                                  FactorSolo(
+                                    Const(
+                                      IntInit(
+                                       1
+                                      ) [IntInit]
+                                    ) [Const]
+                                  ) [FactorSolo]
+                                ) [Term]
+                              ) [TermExpr]
+                              RBracket(
+                              ) [RBracket]
+                            ) [DesignListOnlyExpr]
+                          ) [Designator]
+                        ) [Var]
+                      ) [FactorSolo]
+                    ) [Term]
+                    AddTermSolo(
+                      Addoper(
+                      ) [Addoper]
+                      Term(
+                        FactorSolo(
+                          Var(
+                            Designator(
+                             niz
+                              DesignListOnlyExpr(
+                                LBracket(
+                                ) [LBracket]
+                                TermExpr(
+                                  Term(
+                                    FactorSolo(
+                                      Const(
+                                        IntInit(
+                                         0
+                                        ) [IntInit]
+                                      ) [Const]
+                                    ) [FactorSolo]
+                                  ) [Term]
+                                ) [TermExpr]
+                                RBracket(
+                                ) [RBracket]
+                              ) [DesignListOnlyExpr]
+                            ) [Designator]
+                          ) [Var]
+                        ) [FactorSolo]
+                      ) [Term]
+                    ) [AddTermSolo]
+                  ) [AddExpr]
+                ) [DesStmtExpr]
+              ) [Assignment]
+            ) [StList]
+            Assignment(
+              DesStmtIncr(
+                Designator(
+                 bodovi
+                  NoDesignAdds(
+                  ) [NoDesignAdds]
+                ) [Designator]
+              ) [DesStmtIncr]
+            ) [Assignment]
+          ) [StList]
+          Assignment(
+            DesStmtExpr(
+              Designator(
+               bodovi
+                NoDesignAdds(
+                ) [NoDesignAdds]
+              ) [Designator]
+              AssignEq(
+              ) [AssignEq]
+              TermExpr(
+                Term(
+                  FactorSolo(
+                    FuncCall(
+                      Designator(
+                       inc
+                        NoDesignAdds(
+                        ) [NoDesignAdds]
+                      ) [Designator]
+                      Actuals(
+                        ActualParams(
+                          ActualParams(
+                            ActualParam(
+                              TermExpr(
+                                Term(
+                                  FactorSolo(
+                                    Var(
+                                      Designator(
+                                       bodovi
+                                        NoDesignAdds(
+                                        ) [NoDesignAdds]
+                                      ) [Designator]
+                                    ) [Var]
+                                  ) [FactorSolo]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [ActualParam]
+                            TermExpr(
+                              Term(
+                                FactorSolo(
+                                  Const(
+                                    IntInit(
+                                     17
+                                    ) [IntInit]
+                                  ) [Const]
+                                ) [FactorSolo]
+                              ) [Term]
+                            ) [TermExpr]
+                          ) [ActualParams]
+                          TermExpr(
+                            Term(
+                              FactorSolo(
+                                Const(
+                                  IntInit(
+                                   19
+                                  ) [IntInit]
+                                ) [Const]
+                              ) [FactorSolo]
+                            ) [Term]
+                          ) [TermExpr]
+                        ) [ActualParams]
+                      ) [Actuals]
+                    ) [FuncCall]
+                  ) [FactorSolo]
+                ) [Term]
+              ) [TermExpr]
+            ) [DesStmtExpr]
+          ) [Assignment]
+        ) [StList]
+        PrintStmt(
+          TermExpr(
+            Term(
+              FactorSolo(
+                Var(
+                  Designator(
+                   bodovi
+                    NoDesignAdds(
+                    ) [NoDesignAdds]
+                  ) [Designator]
+                ) [Var]
+              ) [FactorSolo]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  12:39:50,822 - ===================================
+INFO  12:39:50,835 - Obradjuje se funkcija inc na liniji 11
+INFO  12:39:50,836 - Obradjuje se funkcija main na liniji 21
+INFO  12:39:50,837 - Pronadjen poziv funkcije inc na liniji 32
+INFO  12:39:50,837 -  Print count calls = 1
+INFO  12:39:50,837 -  Deklarisanih promenljivih ima = 5
+INFO  12:39:50,837 - ===================================
+INFO  12:39:50,840 - Parsiranje uspesno zavrseno!
+INFO  12:39:54,268 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:39:54,382 - #4 program
+INFO  12:39:54,382 - #17 test301
+INFO  12:39:54,383 - #2 enum
+INFO  12:39:54,385 - #17 Broj
+INFO  12:39:54,386 - #5 {
+INFO  12:39:54,386 - #17 NULA
+INFO  12:39:54,386 - #10 ,
+INFO  12:39:54,387 - #17 JEDAN
+INFO  12:39:54,387 - #10 ,
+INFO  12:39:54,387 - #17 PET
+INFO  12:39:54,387 - #14 =
+INFO  12:39:54,388 - #16 5
+INFO  12:39:54,388 - #10 ,
+INFO  12:39:54,388 - #17 DESET
+INFO  12:39:54,388 - #14 =
+INFO  12:39:54,389 - #16 10
+INFO  12:39:54,389 - #6 }
+INFO  12:39:54,389 - #17 int
+INFO  12:39:54,390 - #17 niz
+INFO  12:39:54,392 - #33 [
+INFO  12:39:54,393 - #39 ]
+INFO  12:39:54,393 - #7 ;
+INFO  12:39:54,394 - #17 char
+INFO  12:39:54,395 - #17 nizch
+INFO  12:39:54,395 - #33 [
+INFO  12:39:54,395 - #39 ]
+INFO  12:39:54,395 - #7 ;
+INFO  12:39:54,395 - #5 {
+INFO  12:39:54,396 - #17 int
+INFO  12:39:54,397 - #17 inc
+INFO  12:39:54,397 - #8 (
+INFO  12:39:54,398 - #17 int
+INFO  12:39:54,398 - #17 broj
+INFO  12:39:54,398 - #10 ,
+INFO  12:39:54,399 - #17 int
+INFO  12:39:54,399 - #17 xd
+INFO  12:39:54,399 - #10 ,
+INFO  12:39:54,399 - #17 int
+INFO  12:39:54,399 - #17 xp
+INFO  12:39:54,400 - #9 )
+INFO  12:39:54,400 - #5 {
+INFO  12:39:54,402 - #12 return
+INFO  12:39:54,403 - #17 xp
+INFO  12:39:54,403 - #7 ;
+INFO  12:39:54,408 - #6 }
+INFO  12:39:54,409 - #15 void
+INFO  12:39:54,411 - #17 main
+INFO  12:39:54,411 - #8 (
+INFO  12:39:54,411 - #9 )
+INFO  12:39:54,412 - #17 int
+INFO  12:39:54,412 - #17 bodovi
+INFO  12:39:54,412 - #7 ;
+INFO  12:39:54,413 - #17 Broj
+INFO  12:39:54,413 - #17 nula
+INFO  12:39:54,413 - #10 ,
+INFO  12:39:54,414 - #17 dva
+INFO  12:39:54,414 - #7 ;
+INFO  12:39:54,414 - #5 {
+INFO  12:39:54,414 - #17 bodovi
+INFO  12:39:54,415 - #14 =
+INFO  12:39:54,415 - #16 3
+INFO  12:39:54,417 - #7 ;
+INFO  12:39:54,418 - #17 niz
+INFO  12:39:54,419 - #14 =
+INFO  12:39:54,419 - #24 new
+INFO  12:39:54,419 - #17 int
+INFO  12:39:54,419 - #33 [
+INFO  12:39:54,419 - #16 2
+INFO  12:39:54,419 - #39 ]
+INFO  12:39:54,420 - #7 ;
+INFO  12:39:54,420 - #17 niz
+INFO  12:39:54,420 - #33 [
+INFO  12:39:54,420 - #16 0
+INFO  12:39:54,423 - #39 ]
+INFO  12:39:54,423 - #14 =
+INFO  12:39:54,426 - #16 5
+INFO  12:39:54,426 - #7 ;
+INFO  12:39:54,426 - #17 niz
+INFO  12:39:54,426 - #33 [
+INFO  12:39:54,426 - #16 1
+INFO  12:39:54,426 - #39 ]
+INFO  12:39:54,427 - #14 =
+INFO  12:39:54,427 - #16 3
+INFO  12:39:54,427 - #7 ;
+INFO  12:39:54,427 - #17 bodovi
+INFO  12:39:54,427 - #14 =
+INFO  12:39:54,428 - #17 niz
+INFO  12:39:54,428 - #33 [
+INFO  12:39:54,428 - #16 1
+INFO  12:39:54,428 - #39 ]
+INFO  12:39:54,428 - #13 +
+INFO  12:39:54,428 - #17 niz
+INFO  12:39:54,431 - #33 [
+INFO  12:39:54,431 - #16 0
+INFO  12:39:54,431 - #39 ]
+INFO  12:39:54,431 - #7 ;
+INFO  12:39:54,432 - #17 bodovi
+INFO  12:39:54,432 - #36 ++
+INFO  12:39:54,432 - #7 ;
+INFO  12:39:54,433 - #17 bodovi
+INFO  12:39:54,433 - #14 =
+INFO  12:39:54,433 - #17 inc
+INFO  12:39:54,433 - #8 (
+INFO  12:39:54,433 - #17 bodovi
+INFO  12:39:54,434 - #10 ,
+INFO  12:39:54,434 - #16 17
+INFO  12:39:54,434 - #10 ,
+INFO  12:39:54,435 - #16 19
+INFO  12:39:54,435 - #9 )
+INFO  12:39:54,435 - #7 ;
+INFO  12:39:54,436 - #11 print
+INFO  12:39:54,436 - #8 (
+INFO  12:39:54,436 - #17 bodovi
+INFO  12:39:54,437 - #9 )
+INFO  12:39:54,437 - #7 ;
+INFO  12:39:54,437 - #6 }
+INFO  12:39:54,437 - #6 }
+INFO  12:39:54,460 - Obradjuje se funkcija inc na liniji 11
+INFO  12:39:54,461 - Obradjuje se funkcija main na liniji 21
+INFO  12:39:54,462 - Pronadjen poziv funkcije inc na liniji 32
+INFO  12:39:54,463 - Print calls = 1
+INFO  12:39:54,465 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:39:54,484 - Parsiranje uspesno zavrseno!
+INFO  12:40:12,398 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:40:12,523 - #4 program
+INFO  12:40:12,523 - #17 test301
+INFO  12:40:12,523 - #2 enum
+INFO  12:40:12,527 - #17 Broj
+INFO  12:40:12,527 - #5 {
+INFO  12:40:12,527 - #17 NULA
+INFO  12:40:12,527 - #10 ,
+INFO  12:40:12,528 - #17 JEDAN
+INFO  12:40:12,528 - #10 ,
+INFO  12:40:12,529 - #17 PET
+INFO  12:40:12,529 - #14 =
+INFO  12:40:12,529 - #16 5
+INFO  12:40:12,530 - #10 ,
+INFO  12:40:12,530 - #17 DESET
+INFO  12:40:12,530 - #14 =
+INFO  12:40:12,530 - #16 10
+INFO  12:40:12,530 - #6 }
+INFO  12:40:12,531 - #17 int
+INFO  12:40:12,532 - #17 niz
+INFO  12:40:12,534 - #33 [
+INFO  12:40:12,535 - #39 ]
+INFO  12:40:12,535 - #7 ;
+INFO  12:40:12,536 - #17 char
+INFO  12:40:12,537 - #17 nizch
+INFO  12:40:12,537 - #33 [
+INFO  12:40:12,537 - #39 ]
+INFO  12:40:12,537 - #7 ;
+INFO  12:40:12,537 - #5 {
+INFO  12:40:12,538 - #17 int
+INFO  12:40:12,539 - #17 inc
+INFO  12:40:12,539 - #8 (
+INFO  12:40:12,540 - #17 int
+INFO  12:40:12,540 - #17 broj
+INFO  12:40:12,540 - #10 ,
+INFO  12:40:12,541 - #17 int
+INFO  12:40:12,541 - #17 xd
+INFO  12:40:12,541 - #10 ,
+INFO  12:40:12,542 - #17 int
+INFO  12:40:12,542 - #17 xp
+INFO  12:40:12,542 - #9 )
+INFO  12:40:12,543 - #5 {
+INFO  12:40:12,544 - #12 return
+INFO  12:40:12,545 - #17 xp
+INFO  12:40:12,545 - #7 ;
+INFO  12:40:12,550 - #6 }
+INFO  12:40:12,551 - #15 void
+INFO  12:40:12,553 - #17 main
+INFO  12:40:12,554 - #8 (
+INFO  12:40:12,554 - #9 )
+INFO  12:40:12,555 - #17 int
+INFO  12:40:12,555 - #17 bodovi
+INFO  12:40:12,555 - #7 ;
+INFO  12:40:12,556 - #17 Broj
+INFO  12:40:12,556 - #17 nula
+INFO  12:40:12,556 - #10 ,
+INFO  12:40:12,557 - #17 dva
+INFO  12:40:12,557 - #7 ;
+INFO  12:40:12,557 - #5 {
+INFO  12:40:12,557 - #17 bodovi
+INFO  12:40:12,558 - #14 =
+INFO  12:40:12,558 - #16 3
+INFO  12:40:12,560 - #7 ;
+INFO  12:40:12,561 - #17 niz
+INFO  12:40:12,561 - #14 =
+INFO  12:40:12,562 - #24 new
+INFO  12:40:12,562 - #17 int
+INFO  12:40:12,562 - #33 [
+INFO  12:40:12,562 - #16 2
+INFO  12:40:12,562 - #39 ]
+INFO  12:40:12,562 - #7 ;
+INFO  12:40:12,563 - #17 niz
+INFO  12:40:12,563 - #33 [
+INFO  12:40:12,563 - #16 0
+INFO  12:40:12,566 - #39 ]
+INFO  12:40:12,566 - #14 =
+INFO  12:40:12,568 - #16 5
+INFO  12:40:12,568 - #7 ;
+INFO  12:40:12,569 - #17 niz
+INFO  12:40:12,569 - #33 [
+INFO  12:40:12,569 - #16 1
+INFO  12:40:12,569 - #39 ]
+INFO  12:40:12,569 - #14 =
+INFO  12:40:12,570 - #16 3
+INFO  12:40:12,570 - #7 ;
+INFO  12:40:12,570 - #17 bodovi
+INFO  12:40:12,570 - #14 =
+INFO  12:40:12,570 - #17 niz
+INFO  12:40:12,570 - #33 [
+INFO  12:40:12,571 - #16 1
+INFO  12:40:12,571 - #39 ]
+INFO  12:40:12,571 - #13 +
+INFO  12:40:12,571 - #17 niz
+INFO  12:40:12,573 - #33 [
+INFO  12:40:12,573 - #16 0
+INFO  12:40:12,574 - #39 ]
+INFO  12:40:12,574 - #7 ;
+INFO  12:40:12,575 - #17 bodovi
+INFO  12:40:12,575 - #36 ++
+INFO  12:40:12,575 - #7 ;
+INFO  12:40:12,576 - #17 bodovi
+INFO  12:40:12,576 - #14 =
+INFO  12:40:12,576 - #17 inc
+INFO  12:40:12,576 - #8 (
+INFO  12:40:12,576 - #17 bodovi
+INFO  12:40:12,576 - #10 ,
+INFO  12:40:12,577 - #16 17
+INFO  12:40:12,577 - #10 ,
+INFO  12:40:12,578 - #16 19
+INFO  12:40:12,578 - #9 )
+INFO  12:40:12,578 - #7 ;
+INFO  12:40:12,579 - #11 print
+INFO  12:40:12,579 - #8 (
+INFO  12:40:12,579 - #17 bodovi
+INFO  12:40:12,579 - #9 )
+INFO  12:40:12,579 - #7 ;
+INFO  12:40:12,580 - #6 }
+INFO  12:40:12,580 - #6 }
+INFO  12:40:12,634 - Obradjuje se funkcija inc na liniji 11
+INFO  12:40:12,635 - Obradjuje se funkcija main na liniji 21
+INFO  12:40:27,515 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:40:27,639 - #4 program
+INFO  12:40:27,640 - #17 test301
+INFO  12:40:27,640 - #2 enum
+INFO  12:40:27,643 - #17 Broj
+INFO  12:40:27,643 - #5 {
+INFO  12:40:27,643 - #17 NULA
+INFO  12:40:27,643 - #10 ,
+INFO  12:40:27,644 - #17 JEDAN
+INFO  12:40:27,644 - #10 ,
+INFO  12:40:27,645 - #17 PET
+INFO  12:40:27,645 - #14 =
+INFO  12:40:27,645 - #16 5
+INFO  12:40:27,645 - #10 ,
+INFO  12:40:27,646 - #17 DESET
+INFO  12:40:27,646 - #14 =
+INFO  12:40:27,646 - #16 10
+INFO  12:40:27,646 - #6 }
+INFO  12:40:27,647 - #17 int
+INFO  12:40:27,648 - #17 niz
+INFO  12:40:27,649 - #33 [
+INFO  12:40:27,651 - #39 ]
+INFO  12:40:27,651 - #7 ;
+INFO  12:40:27,652 - #17 char
+INFO  12:40:27,653 - #17 nizch
+INFO  12:40:27,653 - #33 [
+INFO  12:40:27,653 - #39 ]
+INFO  12:40:27,653 - #7 ;
+INFO  12:40:27,654 - #5 {
+INFO  12:40:27,654 - #17 int
+INFO  12:40:27,655 - #17 inc
+INFO  12:40:27,656 - #8 (
+INFO  12:40:27,656 - #17 int
+INFO  12:40:27,656 - #17 broj
+INFO  12:40:27,656 - #10 ,
+INFO  12:40:27,657 - #17 int
+INFO  12:40:27,657 - #17 xd
+INFO  12:40:27,658 - #10 ,
+INFO  12:40:27,658 - #17 int
+INFO  12:40:27,658 - #17 xp
+INFO  12:40:27,658 - #9 )
+INFO  12:40:27,659 - #5 {
+INFO  12:40:27,661 - #12 return
+INFO  12:40:27,662 - #17 xp
+INFO  12:40:27,662 - #7 ;
+INFO  12:40:27,667 - #6 }
+INFO  12:40:27,668 - #15 void
+INFO  12:40:27,671 - #17 main
+INFO  12:40:27,671 - #8 (
+INFO  12:40:27,671 - #9 )
+INFO  12:40:27,672 - #17 int
+INFO  12:40:27,673 - #17 bodovi
+INFO  12:40:27,673 - #7 ;
+INFO  12:40:27,673 - #17 Broj
+INFO  12:40:27,674 - #17 nula
+INFO  12:40:27,674 - #10 ,
+INFO  12:40:27,674 - #17 dva
+INFO  12:40:27,674 - #7 ;
+INFO  12:40:27,675 - #5 {
+INFO  12:40:27,675 - #17 bodovi
+INFO  12:40:27,675 - #14 =
+INFO  12:40:27,675 - #16 3
+INFO  12:40:27,677 - #7 ;
+INFO  12:40:27,679 - #17 niz
+INFO  12:40:27,679 - #14 =
+INFO  12:40:27,679 - #24 new
+INFO  12:40:27,679 - #17 int
+INFO  12:40:27,679 - #33 [
+INFO  12:40:27,680 - #16 2
+INFO  12:40:27,680 - #39 ]
+INFO  12:40:27,680 - #7 ;
+INFO  12:40:27,681 - #17 niz
+INFO  12:40:27,681 - #33 [
+INFO  12:40:27,681 - #16 0
+INFO  12:40:27,683 - #39 ]
+INFO  12:40:27,683 - #14 =
+INFO  12:40:27,686 - #16 5
+INFO  12:40:27,686 - #7 ;
+INFO  12:40:27,686 - #17 niz
+INFO  12:40:27,687 - #33 [
+INFO  12:40:27,687 - #16 1
+INFO  12:40:27,687 - #39 ]
+INFO  12:40:27,687 - #14 =
+INFO  12:40:27,687 - #16 3
+INFO  12:40:27,688 - #7 ;
+INFO  12:40:27,688 - #17 bodovi
+INFO  12:40:27,688 - #14 =
+INFO  12:40:27,688 - #17 niz
+INFO  12:40:27,688 - #33 [
+INFO  12:40:27,688 - #16 1
+INFO  12:40:27,689 - #39 ]
+INFO  12:40:27,689 - #13 +
+INFO  12:40:27,689 - #17 niz
+INFO  12:40:27,691 - #33 [
+INFO  12:40:27,692 - #16 0
+INFO  12:40:27,692 - #39 ]
+INFO  12:40:27,692 - #7 ;
+INFO  12:40:27,693 - #17 bodovi
+INFO  12:40:27,693 - #36 ++
+INFO  12:40:27,693 - #7 ;
+INFO  12:40:27,694 - #17 bodovi
+INFO  12:40:27,694 - #14 =
+INFO  12:40:27,694 - #17 inc
+INFO  12:40:27,694 - #8 (
+INFO  12:40:27,694 - #17 bodovi
+INFO  12:40:27,694 - #10 ,
+INFO  12:40:27,695 - #16 17
+INFO  12:40:27,695 - #10 ,
+INFO  12:40:27,696 - #16 19
+INFO  12:40:27,696 - #9 )
+INFO  12:40:27,696 - #7 ;
+INFO  12:40:27,697 - #11 print
+INFO  12:40:27,697 - #8 (
+INFO  12:40:27,697 - #17 bodovi
+INFO  12:40:27,697 - #9 )
+INFO  12:40:27,697 - #7 ;
+INFO  12:40:27,698 - #6 }
+INFO  12:40:27,698 - #6 }
+INFO  12:40:27,751 - Obradjuje se funkcija inc na liniji 11
+INFO  12:40:27,752 - Obradjuje se funkcija main na liniji 21
+INFO  12:40:52,311 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:40:52,431 - #4 program
+INFO  12:40:52,432 - #17 test301
+INFO  12:40:52,432 - #2 enum
+INFO  12:40:52,435 - #17 Broj
+INFO  12:40:52,436 - #5 {
+INFO  12:40:52,436 - #17 NULA
+INFO  12:40:52,436 - #10 ,
+INFO  12:40:52,437 - #17 JEDAN
+INFO  12:40:52,437 - #10 ,
+INFO  12:40:52,437 - #17 PET
+INFO  12:40:52,438 - #14 =
+INFO  12:40:52,438 - #16 5
+INFO  12:40:52,438 - #10 ,
+INFO  12:40:52,438 - #17 DESET
+INFO  12:40:52,439 - #14 =
+INFO  12:40:52,439 - #16 10
+INFO  12:40:52,439 - #6 }
+INFO  12:40:52,439 - #17 int
+INFO  12:40:52,441 - #17 niz
+INFO  12:40:52,443 - #33 [
+INFO  12:40:52,444 - #39 ]
+INFO  12:40:52,445 - #7 ;
+INFO  12:40:52,446 - #17 char
+INFO  12:40:52,446 - #17 nizch
+INFO  12:40:52,447 - #33 [
+INFO  12:40:52,447 - #39 ]
+INFO  12:40:52,447 - #7 ;
+INFO  12:40:52,447 - #5 {
+INFO  12:40:52,447 - #17 int
+INFO  12:40:52,449 - #17 inc
+INFO  12:40:52,450 - #8 (
+INFO  12:40:52,450 - #17 int
+INFO  12:40:52,450 - #17 broj
+INFO  12:40:52,450 - #10 ,
+INFO  12:40:52,451 - #17 int
+INFO  12:40:52,451 - #17 xd
+INFO  12:40:52,451 - #10 ,
+INFO  12:40:52,452 - #17 int
+INFO  12:40:52,452 - #17 xp
+INFO  12:40:52,452 - #9 )
+INFO  12:40:52,453 - #5 {
+INFO  12:40:52,454 - #12 return
+INFO  12:40:52,456 - #17 xp
+INFO  12:40:52,457 - #7 ;
+INFO  12:40:52,462 - #6 }
+INFO  12:40:52,463 - #15 void
+INFO  12:40:52,465 - #17 main
+INFO  12:40:52,465 - #8 (
+INFO  12:40:52,466 - #9 )
+INFO  12:40:52,467 - #17 int
+INFO  12:40:52,467 - #17 bodovi
+INFO  12:40:52,467 - #7 ;
+INFO  12:40:52,468 - #17 Broj
+INFO  12:40:52,468 - #17 nula
+INFO  12:40:52,468 - #10 ,
+INFO  12:40:52,468 - #17 dva
+INFO  12:40:52,469 - #7 ;
+INFO  12:40:52,469 - #5 {
+INFO  12:40:52,469 - #17 bodovi
+INFO  12:40:52,469 - #14 =
+INFO  12:40:52,470 - #16 3
+INFO  12:40:52,472 - #7 ;
+INFO  12:40:52,474 - #17 niz
+INFO  12:40:52,474 - #14 =
+INFO  12:40:52,474 - #24 new
+INFO  12:40:52,474 - #17 int
+INFO  12:40:52,474 - #33 [
+INFO  12:40:52,475 - #16 2
+INFO  12:40:52,475 - #39 ]
+INFO  12:40:52,475 - #7 ;
+INFO  12:40:52,475 - #17 niz
+INFO  12:40:52,476 - #33 [
+INFO  12:40:52,476 - #16 0
+INFO  12:40:52,478 - #39 ]
+INFO  12:40:52,478 - #14 =
+INFO  12:40:52,481 - #16 5
+INFO  12:40:52,481 - #7 ;
+INFO  12:40:52,481 - #17 niz
+INFO  12:40:52,481 - #33 [
+INFO  12:40:52,481 - #16 1
+INFO  12:40:52,481 - #39 ]
+INFO  12:40:52,482 - #14 =
+INFO  12:40:52,482 - #16 3
+INFO  12:40:52,482 - #7 ;
+INFO  12:40:52,482 - #17 bodovi
+INFO  12:40:52,482 - #14 =
+INFO  12:40:52,483 - #17 niz
+INFO  12:40:52,483 - #33 [
+INFO  12:40:52,483 - #16 1
+INFO  12:40:52,483 - #39 ]
+INFO  12:40:52,483 - #13 +
+INFO  12:40:52,483 - #17 niz
+INFO  12:40:52,486 - #33 [
+INFO  12:40:52,486 - #16 0
+INFO  12:40:52,486 - #39 ]
+INFO  12:40:52,486 - #7 ;
+INFO  12:40:52,487 - #17 bodovi
+INFO  12:40:52,488 - #36 ++
+INFO  12:40:52,488 - #7 ;
+INFO  12:40:52,488 - #17 bodovi
+INFO  12:40:52,488 - #14 =
+INFO  12:40:52,488 - #17 inc
+INFO  12:40:52,489 - #8 (
+INFO  12:40:52,489 - #17 bodovi
+INFO  12:40:52,489 - #10 ,
+INFO  12:40:52,490 - #16 17
+INFO  12:40:52,490 - #10 ,
+INFO  12:40:52,490 - #16 19
+INFO  12:40:52,491 - #9 )
+INFO  12:40:52,491 - #7 ;
+INFO  12:40:52,492 - #11 print
+INFO  12:40:52,492 - #8 (
+INFO  12:40:52,492 - #17 bodovi
+INFO  12:40:52,492 - #9 )
+INFO  12:40:52,492 - #7 ;
+INFO  12:40:52,493 - #6 }
+INFO  12:40:52,493 - #6 }
+INFO  12:40:52,547 - Obradjuje se funkcija inc na liniji 11
+INFO  12:40:52,548 - Obradjuje se funkcija main na liniji 21
+INFO  12:41:24,447 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:41:24,570 - #4 program
+INFO  12:41:24,570 - #17 test301
+INFO  12:41:24,570 - #2 enum
+INFO  12:41:24,574 - #17 Broj
+INFO  12:41:24,574 - #5 {
+INFO  12:41:24,575 - #17 NULA
+INFO  12:41:24,575 - #10 ,
+INFO  12:41:24,576 - #17 JEDAN
+INFO  12:41:24,576 - #10 ,
+INFO  12:41:24,576 - #17 PET
+INFO  12:41:24,576 - #14 =
+INFO  12:41:24,577 - #16 5
+INFO  12:41:24,577 - #10 ,
+INFO  12:41:24,577 - #17 DESET
+INFO  12:41:24,577 - #14 =
+INFO  12:41:24,578 - #16 10
+INFO  12:41:24,578 - #6 }
+INFO  12:41:24,578 - #17 int
+INFO  12:41:24,579 - #17 niz
+INFO  12:41:24,581 - #33 [
+INFO  12:41:24,583 - #39 ]
+INFO  12:41:24,583 - #7 ;
+INFO  12:41:24,584 - #17 char
+INFO  12:41:24,585 - #17 nizch
+INFO  12:41:24,585 - #33 [
+INFO  12:41:24,585 - #39 ]
+INFO  12:41:24,585 - #7 ;
+INFO  12:41:24,585 - #5 {
+INFO  12:41:24,586 - #17 int
+INFO  12:41:24,587 - #17 inc
+INFO  12:41:24,588 - #8 (
+INFO  12:41:24,588 - #17 int
+INFO  12:41:24,588 - #17 broj
+INFO  12:41:24,588 - #10 ,
+INFO  12:41:24,589 - #17 int
+INFO  12:41:24,589 - #17 xd
+INFO  12:41:24,589 - #10 ,
+INFO  12:41:24,590 - #17 int
+INFO  12:41:24,590 - #17 xp
+INFO  12:41:24,590 - #9 )
+INFO  12:41:24,591 - #5 {
+INFO  12:41:24,593 - #12 return
+INFO  12:41:24,595 - #17 xp
+INFO  12:41:24,595 - #7 ;
+INFO  12:41:24,602 - #6 }
+INFO  12:41:24,603 - #15 void
+INFO  12:41:24,606 - #17 main
+INFO  12:41:24,606 - #8 (
+INFO  12:41:24,606 - #9 )
+INFO  12:41:24,608 - #17 int
+INFO  12:41:24,608 - #17 bodovi
+INFO  12:41:24,609 - #7 ;
+INFO  12:41:24,609 - #17 Broj
+INFO  12:41:24,610 - #17 nula
+INFO  12:41:24,610 - #10 ,
+INFO  12:41:24,610 - #17 dva
+INFO  12:41:24,611 - #7 ;
+INFO  12:41:24,611 - #5 {
+INFO  12:41:24,611 - #17 bodovi
+INFO  12:41:24,611 - #14 =
+INFO  12:41:24,612 - #16 3
+INFO  12:41:24,614 - #7 ;
+INFO  12:41:24,615 - #17 niz
+INFO  12:41:24,615 - #14 =
+INFO  12:41:24,616 - #24 new
+INFO  12:41:24,616 - #17 int
+INFO  12:41:24,616 - #33 [
+INFO  12:41:24,616 - #16 2
+INFO  12:41:24,616 - #39 ]
+INFO  12:41:24,616 - #7 ;
+INFO  12:41:24,617 - #17 niz
+INFO  12:41:24,617 - #33 [
+INFO  12:41:24,617 - #16 0
+INFO  12:41:24,620 - #39 ]
+INFO  12:41:24,620 - #14 =
+INFO  12:41:24,622 - #16 5
+INFO  12:41:24,623 - #7 ;
+INFO  12:41:24,623 - #17 niz
+INFO  12:41:24,623 - #33 [
+INFO  12:41:24,623 - #16 1
+INFO  12:41:24,623 - #39 ]
+INFO  12:41:24,623 - #14 =
+INFO  12:41:24,624 - #16 3
+INFO  12:41:24,624 - #7 ;
+INFO  12:41:24,624 - #17 bodovi
+INFO  12:41:24,624 - #14 =
+INFO  12:41:24,624 - #17 niz
+INFO  12:41:24,625 - #33 [
+INFO  12:41:24,625 - #16 1
+INFO  12:41:24,625 - #39 ]
+INFO  12:41:24,625 - #13 +
+INFO  12:41:24,625 - #17 niz
+INFO  12:41:24,627 - #33 [
+INFO  12:41:24,628 - #16 0
+INFO  12:41:24,628 - #39 ]
+INFO  12:41:24,628 - #7 ;
+INFO  12:41:24,629 - #17 bodovi
+INFO  12:41:24,629 - #36 ++
+INFO  12:41:24,629 - #7 ;
+INFO  12:41:24,630 - #17 bodovi
+INFO  12:41:24,630 - #14 =
+INFO  12:41:24,630 - #17 inc
+INFO  12:41:24,630 - #8 (
+INFO  12:41:24,630 - #17 bodovi
+INFO  12:41:24,631 - #10 ,
+INFO  12:41:24,631 - #16 17
+INFO  12:41:24,631 - #10 ,
+INFO  12:41:24,632 - #16 19
+INFO  12:41:24,632 - #9 )
+INFO  12:41:24,633 - #7 ;
+INFO  12:41:24,633 - #11 print
+INFO  12:41:24,634 - #8 (
+INFO  12:41:24,634 - #17 bodovi
+INFO  12:41:24,634 - #9 )
+INFO  12:41:24,634 - #7 ;
+INFO  12:41:24,634 - #6 }
+INFO  12:41:24,635 - #6 }
+INFO  12:41:24,692 - Obradjuje se funkcija inc na liniji 11
+INFO  12:41:24,693 - Obradjuje se funkcija main na liniji 21
+INFO  12:41:41,404 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:41:41,541 - #4 program
+INFO  12:41:41,541 - #17 test301
+INFO  12:41:41,541 - #2 enum
+INFO  12:41:41,545 - #17 Broj
+INFO  12:41:41,545 - #5 {
+INFO  12:41:41,545 - #17 NULA
+INFO  12:41:41,545 - #10 ,
+INFO  12:41:41,546 - #17 JEDAN
+INFO  12:41:41,547 - #10 ,
+INFO  12:41:41,547 - #17 PET
+INFO  12:41:41,547 - #14 =
+INFO  12:41:41,548 - #16 5
+INFO  12:41:41,548 - #10 ,
+INFO  12:41:41,548 - #17 DESET
+INFO  12:41:41,549 - #14 =
+INFO  12:41:41,549 - #16 10
+INFO  12:41:41,549 - #6 }
+INFO  12:41:41,549 - #17 int
+INFO  12:41:41,550 - #17 niz
+INFO  12:41:41,552 - #33 [
+INFO  12:41:41,554 - #39 ]
+INFO  12:41:41,555 - #7 ;
+INFO  12:41:41,556 - #17 char
+INFO  12:41:41,556 - #17 nizch
+INFO  12:41:41,557 - #33 [
+INFO  12:41:41,557 - #39 ]
+INFO  12:41:41,557 - #7 ;
+INFO  12:41:41,557 - #5 {
+INFO  12:41:41,558 - #17 int
+INFO  12:41:41,559 - #17 inc
+INFO  12:41:41,560 - #8 (
+INFO  12:41:41,560 - #17 int
+INFO  12:41:41,560 - #17 broj
+INFO  12:41:41,560 - #10 ,
+INFO  12:41:41,561 - #17 int
+INFO  12:41:41,561 - #17 xd
+INFO  12:41:41,562 - #10 ,
+INFO  12:41:41,562 - #17 int
+INFO  12:41:41,562 - #17 xp
+INFO  12:41:41,562 - #9 )
+INFO  12:41:41,563 - #5 {
+INFO  12:41:41,565 - #12 return
+INFO  12:41:41,566 - #17 xp
+INFO  12:41:41,566 - #7 ;
+INFO  12:41:41,572 - #6 }
+INFO  12:41:41,573 - #15 void
+INFO  12:41:41,576 - #17 main
+INFO  12:41:41,576 - #8 (
+INFO  12:41:41,576 - #9 )
+INFO  12:41:41,578 - #17 int
+INFO  12:41:41,578 - #17 bodovi
+INFO  12:41:41,578 - #7 ;
+INFO  12:41:41,578 - #17 Broj
+INFO  12:41:41,579 - #17 nula
+INFO  12:41:41,579 - #10 ,
+INFO  12:41:41,579 - #17 dva
+INFO  12:41:41,579 - #7 ;
+INFO  12:41:41,580 - #5 {
+INFO  12:41:41,580 - #17 bodovi
+INFO  12:41:41,580 - #14 =
+INFO  12:41:41,580 - #16 3
+INFO  12:41:41,583 - #7 ;
+INFO  12:41:41,584 - #17 niz
+INFO  12:41:41,585 - #14 =
+INFO  12:41:41,585 - #24 new
+INFO  12:41:41,585 - #17 int
+INFO  12:41:41,586 - #33 [
+INFO  12:41:41,586 - #16 2
+INFO  12:41:41,586 - #39 ]
+INFO  12:41:41,586 - #7 ;
+INFO  12:41:41,587 - #17 niz
+INFO  12:41:41,587 - #33 [
+INFO  12:41:41,587 - #16 0
+INFO  12:41:41,590 - #39 ]
+INFO  12:41:41,590 - #14 =
+INFO  12:41:41,593 - #16 5
+INFO  12:41:41,594 - #7 ;
+INFO  12:41:41,594 - #17 niz
+INFO  12:41:41,594 - #33 [
+INFO  12:41:41,594 - #16 1
+INFO  12:41:41,594 - #39 ]
+INFO  12:41:41,594 - #14 =
+INFO  12:41:41,595 - #16 3
+INFO  12:41:41,595 - #7 ;
+INFO  12:41:41,595 - #17 bodovi
+INFO  12:41:41,595 - #14 =
+INFO  12:41:41,595 - #17 niz
+INFO  12:41:41,596 - #33 [
+INFO  12:41:41,596 - #16 1
+INFO  12:41:41,596 - #39 ]
+INFO  12:41:41,596 - #13 +
+INFO  12:41:41,596 - #17 niz
+INFO  12:41:41,599 - #33 [
+INFO  12:41:41,599 - #16 0
+INFO  12:41:41,600 - #39 ]
+INFO  12:41:41,600 - #7 ;
+INFO  12:41:41,601 - #17 bodovi
+INFO  12:41:41,601 - #36 ++
+INFO  12:41:41,601 - #7 ;
+INFO  12:41:41,602 - #17 bodovi
+INFO  12:41:41,602 - #14 =
+INFO  12:41:41,602 - #17 inc
+INFO  12:41:41,602 - #8 (
+INFO  12:41:41,602 - #17 bodovi
+INFO  12:41:41,602 - #10 ,
+INFO  12:41:41,603 - #16 17
+INFO  12:41:41,603 - #10 ,
+INFO  12:41:41,604 - #16 19
+INFO  12:41:41,604 - #9 )
+INFO  12:41:41,604 - #7 ;
+INFO  12:41:41,605 - #11 print
+INFO  12:41:41,605 - #8 (
+INFO  12:41:41,605 - #17 bodovi
+INFO  12:41:41,605 - #9 )
+INFO  12:41:41,606 - #7 ;
+INFO  12:41:41,606 - #6 }
+INFO  12:41:41,606 - #6 }
+INFO  12:41:41,659 - Obradjuje se funkcija inc na liniji 11
+INFO  12:41:41,660 - Obradjuje se funkcija main na liniji 21
+INFO  12:56:47,263 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:56:47,388 - #4 program
+INFO  12:56:47,388 - #17 test301
+INFO  12:56:47,388 - #2 enum
+INFO  12:56:47,388 - #17 Broj
+INFO  12:56:47,388 - #5 {
+INFO  12:56:47,388 - #17 NULA
+INFO  12:56:47,388 - #10 ,
+INFO  12:56:47,388 - #17 JEDAN
+INFO  12:56:47,388 - #10 ,
+INFO  12:56:47,388 - #17 PET
+INFO  12:56:47,388 - #14 =
+INFO  12:56:47,388 - #16 5
+INFO  12:56:47,388 - #10 ,
+INFO  12:56:47,388 - #17 DESET
+INFO  12:56:47,388 - #14 =
+INFO  12:56:47,388 - #16 10
+INFO  12:56:47,388 - #6 }
+INFO  12:56:47,388 - #17 int
+INFO  12:56:47,388 - #17 niz
+INFO  12:56:47,388 - #33 [
+INFO  12:56:47,388 - #39 ]
+INFO  12:56:47,388 - #7 ;
+INFO  12:56:47,388 - #17 char
+INFO  12:56:47,403 - #17 nizch
+INFO  12:56:47,403 - #33 [
+INFO  12:56:47,403 - #39 ]
+INFO  12:56:47,403 - #7 ;
+INFO  12:56:47,403 - #5 {
+INFO  12:56:47,403 - #17 int
+INFO  12:56:47,403 - #17 inc
+INFO  12:56:47,403 - #8 (
+INFO  12:56:47,403 - #17 int
+INFO  12:56:47,403 - #17 broj
+INFO  12:56:47,403 - #10 ,
+INFO  12:56:47,403 - #17 int
+INFO  12:56:47,403 - #17 xd
+INFO  12:56:47,403 - #10 ,
+INFO  12:56:47,403 - #17 int
+INFO  12:56:47,403 - #17 xp
+INFO  12:56:47,403 - #9 )
+INFO  12:56:47,403 - #5 {
+INFO  12:56:47,403 - #12 return
+INFO  12:56:47,403 - #17 xp
+INFO  12:56:47,403 - #7 ;
+INFO  12:56:47,403 - #6 }
+INFO  12:56:47,403 - #15 void
+INFO  12:56:47,419 - #17 main
+INFO  12:56:47,419 - #8 (
+INFO  12:56:47,419 - #9 )
+INFO  12:56:47,419 - #17 int
+INFO  12:56:47,419 - #17 bodovi
+INFO  12:56:47,419 - #7 ;
+INFO  12:56:47,419 - #17 Broj
+INFO  12:56:47,419 - #17 nula
+INFO  12:56:47,419 - #10 ,
+INFO  12:56:47,419 - #17 dva
+INFO  12:56:47,419 - #7 ;
+INFO  12:56:47,419 - #5 {
+INFO  12:56:47,419 - #17 bodovi
+INFO  12:56:47,419 - #14 =
+INFO  12:56:47,419 - #16 3
+INFO  12:56:47,419 - #7 ;
+INFO  12:56:47,419 - #17 niz
+INFO  12:56:47,419 - #14 =
+INFO  12:56:47,419 - #24 new
+INFO  12:56:47,419 - #17 int
+INFO  12:56:47,419 - #33 [
+INFO  12:56:47,419 - #16 2
+INFO  12:56:47,419 - #39 ]
+INFO  12:56:47,419 - #7 ;
+INFO  12:56:47,419 - #17 niz
+INFO  12:56:47,419 - #33 [
+INFO  12:56:47,419 - #16 0
+INFO  12:56:47,419 - #39 ]
+INFO  12:56:47,419 - #14 =
+INFO  12:56:47,419 - #16 5
+INFO  12:56:47,419 - #7 ;
+INFO  12:56:47,419 - #17 niz
+INFO  12:56:47,435 - #33 [
+INFO  12:56:47,435 - #16 1
+INFO  12:56:47,435 - #39 ]
+INFO  12:56:47,435 - #14 =
+INFO  12:56:47,435 - #16 3
+INFO  12:56:47,435 - #7 ;
+INFO  12:56:47,435 - #17 bodovi
+INFO  12:56:47,435 - #14 =
+INFO  12:56:47,435 - #17 niz
+INFO  12:56:47,435 - #33 [
+INFO  12:56:47,435 - #16 1
+INFO  12:56:47,435 - #39 ]
+INFO  12:56:47,435 - #13 +
+INFO  12:56:47,435 - #17 niz
+INFO  12:56:47,435 - #33 [
+INFO  12:56:47,435 - #16 0
+INFO  12:56:47,435 - #39 ]
+INFO  12:56:47,435 - #7 ;
+INFO  12:56:47,435 - #17 bodovi
+INFO  12:56:47,435 - #36 ++
+INFO  12:56:47,435 - #7 ;
+INFO  12:56:47,435 - #17 bodovi
+INFO  12:56:47,435 - #14 =
+INFO  12:56:47,435 - #17 inc
+INFO  12:56:47,435 - #8 (
+INFO  12:56:47,435 - #17 bodovi
+INFO  12:56:47,435 - #10 ,
+INFO  12:56:47,435 - #16 17
+INFO  12:56:47,435 - #10 ,
+INFO  12:56:47,435 - #16 19
+INFO  12:56:47,435 - #9 )
+INFO  12:56:47,435 - #7 ;
+INFO  12:56:47,435 - #11 print
+INFO  12:56:47,435 - #8 (
+INFO  12:56:47,435 - #17 bodovi
+INFO  12:56:47,435 - #9 )
+INFO  12:56:47,435 - #7 ;
+INFO  12:56:47,435 - #6 }
+INFO  12:56:47,435 - #6 }
+INFO  12:56:47,466 - Obradjuje se funkcija inc na liniji 11
+INFO  12:56:47,466 - Obradjuje se funkcija main na liniji 21
+INFO  12:56:47,466 - Pronadjen poziv funkcije inc na liniji 32
+INFO  12:56:47,466 - Print calls = 1
+INFO  12:56:47,466 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:57:17,592 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:57:17,702 - #4 program
+INFO  12:57:17,702 - #17 test301
+INFO  12:57:17,702 - #2 enum
+INFO  12:57:17,702 - #17 Broj
+INFO  12:57:17,702 - #5 {
+INFO  12:57:17,702 - #17 NULA
+INFO  12:57:17,702 - #10 ,
+INFO  12:57:17,702 - #17 JEDAN
+INFO  12:57:17,702 - #10 ,
+INFO  12:57:17,702 - #17 PET
+INFO  12:57:17,702 - #14 =
+INFO  12:57:17,717 - #16 5
+INFO  12:57:17,717 - #10 ,
+INFO  12:57:17,717 - #17 DESET
+INFO  12:57:17,717 - #14 =
+INFO  12:57:17,717 - #16 10
+INFO  12:57:17,717 - #6 }
+INFO  12:57:17,717 - #17 int
+INFO  12:57:17,717 - #17 niz
+INFO  12:57:17,717 - #33 [
+INFO  12:57:17,717 - #39 ]
+INFO  12:57:17,717 - #7 ;
+INFO  12:57:17,717 - #17 char
+INFO  12:57:17,717 - #17 nizch
+INFO  12:57:17,717 - #33 [
+INFO  12:57:17,717 - #39 ]
+INFO  12:57:17,717 - #7 ;
+INFO  12:57:17,717 - #5 {
+INFO  12:57:17,717 - #17 int
+INFO  12:57:17,717 - #17 inc
+INFO  12:57:17,717 - #8 (
+INFO  12:57:17,717 - #17 int
+INFO  12:57:17,717 - #17 broj
+INFO  12:57:17,717 - #10 ,
+INFO  12:57:17,717 - #17 int
+INFO  12:57:17,717 - #17 xd
+INFO  12:57:17,717 - #10 ,
+INFO  12:57:17,717 - #17 int
+INFO  12:57:17,717 - #17 xp
+INFO  12:57:17,717 - #9 )
+INFO  12:57:17,717 - #5 {
+INFO  12:57:17,717 - #12 return
+INFO  12:57:17,717 - #17 xp
+INFO  12:57:17,733 - #7 ;
+INFO  12:57:17,733 - #6 }
+INFO  12:57:17,733 - #15 void
+INFO  12:57:17,733 - #17 main
+INFO  12:57:17,733 - #8 (
+INFO  12:57:17,733 - #9 )
+INFO  12:57:17,733 - #17 int
+INFO  12:57:17,733 - #17 bodovi
+INFO  12:57:17,733 - #7 ;
+INFO  12:57:17,733 - #17 Broj
+INFO  12:57:17,733 - #17 nula
+INFO  12:57:17,733 - #10 ,
+INFO  12:57:17,733 - #17 dva
+INFO  12:57:17,733 - #7 ;
+INFO  12:57:17,733 - #5 {
+INFO  12:57:17,733 - #17 bodovi
+INFO  12:57:17,733 - #14 =
+INFO  12:57:17,733 - #16 3
+INFO  12:57:17,733 - #7 ;
+INFO  12:57:17,733 - #17 niz
+INFO  12:57:17,733 - #14 =
+INFO  12:57:17,733 - #24 new
+INFO  12:57:17,733 - #17 int
+INFO  12:57:17,733 - #33 [
+INFO  12:57:17,748 - #16 2
+INFO  12:57:17,748 - #39 ]
+INFO  12:57:17,748 - #7 ;
+INFO  12:57:17,748 - #17 niz
+INFO  12:57:17,748 - #33 [
+INFO  12:57:17,748 - #16 0
+INFO  12:57:17,748 - #39 ]
+INFO  12:57:17,748 - #14 =
+INFO  12:57:17,748 - #16 5
+INFO  12:57:17,748 - #7 ;
+INFO  12:57:17,748 - #17 niz
+INFO  12:57:17,748 - #33 [
+INFO  12:57:17,748 - #16 1
+INFO  12:57:17,748 - #39 ]
+INFO  12:57:17,748 - #14 =
+INFO  12:57:17,748 - #16 3
+INFO  12:57:17,748 - #7 ;
+INFO  12:57:17,748 - #17 bodovi
+INFO  12:57:17,748 - #14 =
+INFO  12:57:17,748 - #17 niz
+INFO  12:57:17,748 - #33 [
+INFO  12:57:17,748 - #16 1
+INFO  12:57:17,748 - #39 ]
+INFO  12:57:17,748 - #13 +
+INFO  12:57:17,748 - #17 niz
+INFO  12:57:17,748 - #33 [
+INFO  12:57:17,748 - #16 0
+INFO  12:57:17,748 - #39 ]
+INFO  12:57:17,748 - #7 ;
+INFO  12:57:17,748 - #17 bodovi
+INFO  12:57:17,748 - #36 ++
+INFO  12:57:17,748 - #7 ;
+INFO  12:57:17,748 - #17 bodovi
+INFO  12:57:17,748 - #14 =
+INFO  12:57:17,748 - #17 inc
+INFO  12:57:17,748 - #8 (
+INFO  12:57:17,748 - #17 bodovi
+INFO  12:57:17,748 - #10 ,
+INFO  12:57:17,748 - #16 17
+INFO  12:57:17,748 - #10 ,
+INFO  12:57:17,748 - #16 19
+INFO  12:57:17,748 - #9 )
+INFO  12:57:17,748 - #7 ;
+INFO  12:57:17,764 - #11 print
+INFO  12:57:17,764 - #8 (
+INFO  12:57:17,764 - #17 bodovi
+INFO  12:57:17,764 - #9 )
+INFO  12:57:17,764 - #7 ;
+INFO  12:57:17,764 - #6 }
+INFO  12:57:17,764 - #6 }
+INFO  12:57:17,780 - Obradjuje se funkcija inc na liniji 11
+INFO  12:57:17,780 - Obradjuje se funkcija main na liniji 21
+INFO  12:57:17,780 - Pronadjen poziv funkcije inc na liniji 32
+INFO  12:57:17,780 - Print calls = 1
+INFO  12:57:17,795 - Generating bytecode file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:57:17,811 - Parsiranje uspesno zavrseno!

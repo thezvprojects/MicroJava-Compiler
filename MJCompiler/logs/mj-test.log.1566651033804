@@ -1,0 +1,391 @@
+INFO  14:49:47,279 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:49:47,457 - #4 program
+INFO  14:49:47,509 - #17 test301
+INFO  14:49:47,559 - #2 enum
+INFO  14:49:47,613 - #17 Broj
+INFO  14:49:47,665 - #5 {
+INFO  14:49:47,715 - #17 NULA
+INFO  14:49:47,766 - #10 ,
+INFO  14:49:47,819 - #17 JEDAN
+INFO  14:49:47,869 - #10 ,
+INFO  14:49:47,921 - #17 PET
+INFO  14:49:47,972 - #14 =
+INFO  14:49:48,024 - #16 5
+INFO  14:49:48,074 - #10 ,
+INFO  14:49:48,124 - #17 DESET
+INFO  14:49:48,175 - #14 =
+INFO  14:49:48,225 - #16 10
+INFO  14:49:48,275 - #6 }
+INFO  14:49:48,325 - #3 const
+INFO  14:49:48,378 - #17 int
+INFO  14:49:48,431 - #17 jedan
+INFO  14:49:48,484 - #14 =
+INFO  14:49:48,486 - #16 1
+INFO  14:49:48,487 - #7 ;
+INFO  14:49:48,489 - #3 const
+INFO  14:49:48,490 - #17 int
+INFO  14:49:48,491 - #17 pet
+INFO  14:49:48,491 - #14 =
+INFO  14:49:48,492 - #16 5
+INFO  14:49:48,492 - #7 ;
+INFO  14:49:48,493 - #17 int
+INFO  14:49:48,493 - #17 niz
+INFO  14:49:48,493 - #33 [
+INFO  14:49:48,496 - #39 ]
+INFO  14:49:48,496 - #7 ;
+INFO  14:49:48,498 - #17 char
+INFO  14:49:48,499 - #17 nizch
+INFO  14:49:48,500 - #33 [
+INFO  14:49:48,500 - #39 ]
+INFO  14:49:48,501 - #7 ;
+INFO  14:49:48,501 - #5 {
+INFO  14:49:48,501 - #17 int
+INFO  14:49:48,503 - #17 inc
+INFO  14:49:48,504 - #8 (
+INFO  14:49:48,505 - #17 int
+INFO  14:49:48,505 - #17 broj
+INFO  14:49:48,506 - #9 )
+INFO  14:49:48,507 - #5 {
+INFO  14:49:48,510 - #12 return
+INFO  14:49:48,512 - #17 broj
+INFO  14:49:48,513 - #13 +
+INFO  14:49:48,520 - #17 Broj
+INFO  14:49:48,523 - #26 .
+INFO  14:49:48,523 - #17 JEDAN
+INFO  14:49:48,524 - #7 ;
+INFO  14:49:48,526 - #6 }
+INFO  14:49:48,527 - #15 void
+INFO  14:49:48,530 - #17 mul
+INFO  14:49:48,531 - #8 (
+INFO  14:49:48,532 - #17 int
+INFO  14:49:48,532 - #17 arr
+INFO  14:49:48,533 - #33 [
+INFO  14:49:48,533 - #39 ]
+INFO  14:49:48,533 - #10 ,
+INFO  14:49:48,534 - #17 int
+INFO  14:49:48,534 - #17 index
+INFO  14:49:48,534 - #10 ,
+INFO  14:49:48,535 - #17 int
+INFO  14:49:48,535 - #17 b
+INFO  14:49:48,536 - #9 )
+INFO  14:49:48,536 - #5 {
+INFO  14:49:48,536 - #17 arr
+INFO  14:49:48,537 - #33 [
+INFO  14:49:48,537 - #17 index
+INFO  14:49:48,540 - #39 ]
+INFO  14:49:48,540 - #14 =
+INFO  14:49:48,543 - #17 arr
+INFO  14:49:48,546 - #33 [
+INFO  14:49:48,547 - #17 index
+INFO  14:49:48,547 - #39 ]
+INFO  14:49:48,547 - #43 *
+INFO  14:49:48,548 - #17 b
+INFO  14:49:48,550 - #7 ;
+INFO  14:49:48,551 - #6 }
+INFO  14:49:48,552 - #15 void
+INFO  14:49:48,552 - #17 main
+INFO  14:49:48,552 - #8 (
+INFO  14:49:48,553 - #9 )
+INFO  14:49:48,554 - #17 int
+INFO  14:49:48,554 - #17 bodovi
+INFO  14:49:48,555 - #7 ;
+INFO  14:49:48,555 - #17 Broj
+INFO  14:49:48,556 - #17 nula
+INFO  14:49:48,556 - #10 ,
+INFO  14:49:48,556 - #17 jedan
+INFO  14:49:48,557 - #7 ;
+INFO  14:49:48,558 - #5 {
+INFO  14:49:48,558 - #17 nula
+INFO  14:49:48,558 - #14 =
+INFO  14:49:48,559 - #17 Broj
+INFO  14:49:48,559 - #26 .
+INFO  14:49:48,559 - #17 NULA
+INFO  14:49:48,560 - #7 ;
+INFO  14:49:48,560 - #17 jedan
+INFO  14:49:48,560 - #14 =
+INFO  14:49:48,561 - #17 Broj
+INFO  14:49:48,561 - #26 .
+INFO  14:49:48,561 - #17 JEDAN
+INFO  14:49:48,562 - #7 ;
+INFO  14:49:48,562 - #17 bodovi
+INFO  14:49:48,562 - #14 =
+INFO  14:49:48,563 - #16 0
+INFO  14:49:48,563 - #7 ;
+INFO  14:49:48,564 - #17 bodovi
+INFO  14:49:48,564 - #36 ++
+INFO  14:49:48,564 - #7 ;
+INFO  14:49:48,565 - #17 bodovi
+INFO  14:49:48,565 - #14 =
+INFO  14:49:48,565 - #17 bodovi
+INFO  14:49:48,566 - #13 +
+INFO  14:49:48,566 - #17 jedan
+INFO  14:49:48,566 - #7 ;
+INFO  14:49:48,567 - #17 bodovi
+INFO  14:49:48,567 - #14 =
+INFO  14:49:48,568 - #17 bodovi
+INFO  14:49:48,568 - #43 *
+INFO  14:49:48,568 - #17 pet
+INFO  14:49:48,569 - #7 ;
+INFO  14:49:48,569 - #17 bodovi
+INFO  14:49:48,569 - #40 --
+INFO  14:49:48,570 - #7 ;
+INFO  14:49:48,570 - #11 print
+INFO  14:49:48,570 - #8 (
+INFO  14:49:48,571 - #17 bodovi
+INFO  14:49:48,571 - #9 )
+INFO  14:49:48,571 - #7 ;
+INFO  14:49:48,572 - #17 niz
+INFO  14:49:48,572 - #14 =
+INFO  14:49:48,573 - #24 new
+INFO  14:49:48,573 - #17 int
+INFO  14:49:48,573 - #33 [
+INFO  14:49:48,574 - #16 2
+INFO  14:49:48,574 - #39 ]
+INFO  14:49:48,574 - #7 ;
+INFO  14:49:48,575 - #17 niz
+INFO  14:49:48,575 - #33 [
+INFO  14:49:48,576 - #17 nula
+INFO  14:49:48,576 - #39 ]
+INFO  14:49:48,576 - #14 =
+INFO  14:49:48,577 - #17 pet
+INFO  14:49:48,577 - #7 ;
+INFO  14:49:48,577 - #17 niz
+INFO  14:49:48,578 - #33 [
+INFO  14:49:48,578 - #16 1
+INFO  14:49:48,578 - #39 ]
+INFO  14:49:48,579 - #14 =
+INFO  14:49:48,579 - #17 Broj
+INFO  14:49:48,579 - #26 .
+INFO  14:49:48,580 - #17 DESET
+INFO  14:49:48,580 - #7 ;
+INFO  14:49:48,580 - #17 mul
+INFO  14:49:48,581 - #8 (
+INFO  14:49:48,581 - #17 niz
+INFO  14:49:48,583 - #10 ,
+INFO  14:49:48,583 - #17 inc
+INFO  14:49:48,584 - #8 (
+INFO  14:49:48,584 - #16 0
+INFO  14:49:48,584 - #9 )
+INFO  14:49:48,585 - #10 ,
+INFO  14:49:48,586 - #16 2
+INFO  14:49:48,586 - #9 )
+INFO  14:49:48,587 - #7 ;
+INFO  14:49:48,589 - #17 mul
+INFO  14:49:48,589 - #8 (
+INFO  14:49:48,589 - #17 niz
+INFO  14:49:48,590 - #10 ,
+INFO  14:49:48,590 - #17 Broj
+INFO  14:49:48,590 - #26 .
+INFO  14:49:48,591 - #17 NULA
+INFO  14:49:48,591 - #10 ,
+INFO  14:49:48,591 - #17 inc
+INFO  14:49:48,592 - #8 (
+INFO  14:49:48,592 - #17 inc
+INFO  14:49:48,592 - #8 (
+INFO  14:49:48,593 - #17 Broj
+INFO  14:49:48,593 - #26 .
+INFO  14:49:48,593 - #17 JEDAN
+INFO  14:49:48,593 - #9 )
+INFO  14:49:48,594 - #13 +
+INFO  14:49:48,594 - #16 1
+INFO  14:49:48,594 - #9 )
+INFO  14:49:48,595 - #9 )
+INFO  14:49:48,595 - #7 ;
+INFO  14:49:48,596 - #17 bodovi
+INFO  14:49:48,596 - #14 =
+INFO  14:49:48,596 - #17 niz
+INFO  14:49:48,596 - #33 [
+INFO  14:49:48,597 - #16 1
+INFO  14:49:48,597 - #39 ]
+INFO  14:49:48,597 - #28 /
+INFO  14:49:48,598 - #17 niz
+INFO  14:49:48,599 - #33 [
+INFO  14:49:48,600 - #16 0
+INFO  14:49:48,600 - #39 ]
+INFO  14:49:48,600 - #7 ;
+INFO  14:49:48,601 - #11 print
+INFO  14:49:48,601 - #8 (
+INFO  14:49:48,601 - #17 bodovi
+INFO  14:49:48,602 - #9 )
+INFO  14:49:48,602 - #7 ;
+INFO  14:49:48,602 - #11 print
+INFO  14:49:48,603 - #8 (
+INFO  14:49:48,603 - #17 niz
+INFO  14:49:48,603 - #33 [
+INFO  14:49:48,604 - #17 Broj
+INFO  14:49:48,604 - #26 .
+INFO  14:49:48,604 - #17 JEDAN
+INFO  14:49:48,604 - #39 ]
+INFO  14:49:48,605 - #9 )
+INFO  14:49:48,605 - #7 ;
+INFO  14:49:48,605 - #17 nizch
+INFO  14:49:48,606 - #14 =
+INFO  14:49:48,606 - #24 new
+INFO  14:49:48,606 - #17 char
+INFO  14:49:48,607 - #33 [
+INFO  14:49:48,607 - #16 3
+INFO  14:49:48,607 - #39 ]
+INFO  14:49:48,608 - #7 ;
+INFO  14:49:48,608 - #17 nizch
+INFO  14:49:48,608 - #33 [
+INFO  14:49:48,609 - #16 0
+INFO  14:49:48,609 - #39 ]
+INFO  14:49:48,609 - #14 =
+INFO  14:49:48,610 - #19 a
+INFO  14:49:48,610 - #7 ;
+INFO  14:49:48,611 - #17 nizch
+INFO  14:49:48,611 - #33 [
+INFO  14:49:48,612 - #17 jedan
+INFO  14:49:48,612 - #39 ]
+INFO  14:49:48,612 - #14 =
+INFO  14:49:48,613 - #19 b
+INFO  14:49:48,613 - #7 ;
+INFO  14:49:48,613 - #17 nizch
+INFO  14:49:48,614 - #33 [
+INFO  14:49:48,614 - #17 pet
+INFO  14:49:48,614 - #29 -
+INFO  14:49:48,615 - #16 3
+INFO  14:49:48,616 - #39 ]
+INFO  14:49:48,617 - #14 =
+INFO  14:49:48,618 - #19 c
+INFO  14:49:48,618 - #7 ;
+INFO  14:49:48,618 - #11 print
+INFO  14:49:48,619 - #8 (
+INFO  14:49:48,619 - #17 nizch
+INFO  14:49:48,619 - #33 [
+INFO  14:49:48,620 - #17 inc
+INFO  14:49:48,620 - #8 (
+INFO  14:49:48,620 - #16 0
+INFO  14:49:48,621 - #9 )
+INFO  14:49:48,621 - #39 ]
+INFO  14:49:48,621 - #9 )
+INFO  14:49:48,622 - #7 ;
+INFO  14:49:48,622 - #11 print
+INFO  14:49:48,622 - #8 (
+INFO  14:49:48,623 - #17 nizch
+INFO  14:49:48,623 - #33 [
+INFO  14:49:48,623 - #16 2
+INFO  14:49:48,624 - #39 ]
+INFO  14:49:48,624 - #9 )
+INFO  14:49:48,624 - #7 ;
+INFO  14:49:48,625 - #17 bodovi
+INFO  14:49:48,625 - #14 =
+INFO  14:49:48,626 - #17 bodovi
+INFO  14:49:48,626 - #13 +
+INFO  14:49:48,626 - #8 (
+INFO  14:49:48,627 - #8 (
+INFO  14:49:48,627 - #17 pet
+INFO  14:49:48,627 - #43 *
+INFO  14:49:48,628 - #17 jedan
+INFO  14:49:48,628 - #29 -
+INFO  14:49:48,629 - #16 1
+INFO  14:49:48,629 - #9 )
+INFO  14:49:48,630 - #43 *
+INFO  14:49:48,630 - #17 inc
+INFO  14:49:48,630 - #8 (
+INFO  14:49:48,631 - #17 Broj
+INFO  14:49:48,631 - #26 .
+INFO  14:49:48,631 - #17 JEDAN
+INFO  14:49:48,632 - #9 )
+INFO  14:49:48,632 - #29 -
+INFO  14:49:48,632 - #8 (
+INFO  14:49:48,632 - #16 3
+INFO  14:49:48,633 - #23 %
+INFO  14:49:48,633 - #16 2
+INFO  14:49:48,635 - #13 +
+INFO  14:49:48,635 - #16 3
+INFO  14:49:48,636 - #43 *
+INFO  14:49:48,636 - #16 2
+INFO  14:49:48,636 - #29 -
+INFO  14:49:48,637 - #16 3
+INFO  14:49:48,637 - #9 )
+INFO  14:49:48,638 - #29 -
+INFO  14:49:48,638 - #17 inc
+INFO  14:49:48,639 - #8 (
+INFO  14:49:48,639 - #17 Broj
+INFO  14:49:48,639 - #26 .
+INFO  14:49:48,640 - #17 NULA
+INFO  14:49:48,640 - #9 )
+INFO  14:49:48,640 - #43 *
+INFO  14:49:48,641 - #16 0
+INFO  14:49:48,641 - #9 )
+INFO  14:49:48,641 - #7 ;
+INFO  14:49:48,642 - #11 print
+INFO  14:49:48,642 - #8 (
+INFO  14:49:48,642 - #17 bodovi
+INFO  14:49:48,643 - #9 )
+INFO  14:49:48,643 - #7 ;
+INFO  14:49:48,643 - #35 read
+INFO  14:49:48,644 - #8 (
+INFO  14:49:48,644 - #17 bodovi
+INFO  14:49:48,644 - #9 )
+INFO  14:49:48,645 - #7 ;
+INFO  14:49:48,645 - #17 bodovi
+INFO  14:49:48,645 - #14 =
+INFO  14:49:48,646 - #17 inc
+INFO  14:49:48,646 - #8 (
+INFO  14:49:48,646 - #17 bodovi
+INFO  14:49:48,647 - #9 )
+INFO  14:49:48,647 - #7 ;
+INFO  14:49:48,647 - #11 print
+INFO  14:49:48,648 - #8 (
+INFO  14:49:48,648 - #17 bodovi
+INFO  14:49:48,648 - #9 )
+INFO  14:49:48,648 - #7 ;
+INFO  14:49:48,649 - #6 }
+INFO  14:49:48,649 - #6 }
+INFO  14:49:48,675 - VarArrId deklarisan
+INFO  14:49:48,675 - VarArrId deklarisan
+INFO  14:49:48,676 - Obradjuje se funkcija inc na liniji 14
+ERROR 14:49:48,677 - Greska na liniji 16 : designator mora biti int!
+INFO  14:49:48,677 - Obradjuje se funkcija mul na liniji 19
+INFO  14:49:48,678 - neki info
+ERROR 14:49:48,678 - Greska na liniji 21 : designator mora biti int!
+INFO  14:49:48,679 - neki info
+ERROR 14:49:48,679 - Greska na liniji 21 : designator mora biti int!
+INFO  14:49:48,679 - Obradjuje se funkcija main na liniji 24
+ERROR 14:49:48,680 - Greska na liniji 28 : designator mora biti int!
+ERROR 14:49:48,681 - Greska na liniji 29 : designator mora biti int!
+ERROR 14:49:48,682 - Greska na liniji 38 : designator mora biti int!
+INFO  14:49:48,682 - neki info
+ERROR 14:49:48,683 - Greska na liniji 39 : designator mora biti int!
+INFO  14:49:48,683 - neki info
+ERROR 14:49:48,683 - Greska na liniji 40 : designator mora biti int!
+ERROR 14:49:48,684 - Greska na liniji 40 : designator mora biti int!
+ERROR 14:49:48,684 - Greska na liniji 41 : designator mora biti int!
+ERROR 14:49:48,684 - Greska na liniji 41 : designator mora biti int!
+INFO  14:49:48,685 - Pronadjen poziv funkcije inc na liniji 41
+INFO  14:49:48,687 - Pronadjen poziv funkcije mul na liniji 41
+ERROR 14:49:48,687 - Greska na liniji 42 : designator mora biti int!
+ERROR 14:49:48,688 - Greska na liniji 42 : designator mora biti int!
+ERROR 14:49:48,688 - Greska na liniji 42 : designator mora biti int!
+ERROR 14:49:48,688 - Greska na liniji 42 : designator mora biti int!
+INFO  14:49:48,688 - Pronadjen poziv funkcije inc na liniji 42
+INFO  14:49:48,689 - Pronadjen poziv funkcije inc na liniji 42
+INFO  14:49:48,689 - Pronadjen poziv funkcije mul na liniji 42
+INFO  14:49:48,689 - neki info
+ERROR 14:49:48,690 - Greska na liniji 43 : designator mora biti int!
+INFO  14:49:48,690 - neki info
+ERROR 14:49:48,690 - Greska na liniji 43 : designator mora biti int!
+ERROR 14:49:48,691 - Greska na liniji 45 : designator mora biti int!
+INFO  14:49:48,691 - neki info
+ERROR 14:49:48,691 - Greska na liniji 45 : designator mora biti int!
+ERROR 14:49:48,692 - Greska na liniji 48 : designator mora biti int!
+INFO  14:49:48,692 - neki info
+ERROR 14:49:48,692 - Greska na liniji 49 : designator mora biti int!
+INFO  14:49:48,693 - neki info
+ERROR 14:49:48,693 - Greska na liniji 50 : designator mora biti int!
+INFO  14:49:48,693 - neki info
+ERROR 14:49:48,694 - Greska na liniji 51 : designator mora biti int!
+INFO  14:49:48,694 - Pronadjen poziv funkcije inc na liniji 52
+INFO  14:49:48,694 - neki info
+ERROR 14:49:48,695 - Greska na liniji 52 : designator mora biti int!
+INFO  14:49:48,695 - neki info
+ERROR 14:49:48,695 - Greska na liniji 53 : designator mora biti int!
+ERROR 14:49:48,696 - Greska na liniji 56 : designator mora biti int!
+INFO  14:49:48,696 - Pronadjen poziv funkcije inc na liniji 56
+ERROR 14:49:48,696 - Greska na liniji 56 : designator mora biti int!
+INFO  14:49:48,697 - Pronadjen poziv funkcije inc na liniji 56
+INFO  14:49:48,697 - Pronadjen poziv funkcije inc na liniji 61
+INFO  14:49:48,697 - Print calls = 7
+ERROR 14:49:48,699 - Parsiranje NIJE uspesno zavrseno!

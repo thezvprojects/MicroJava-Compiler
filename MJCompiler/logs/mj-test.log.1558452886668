@@ -1,0 +1,84 @@
+INFO  17:23:14,084 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:23:14,739 - #8 program
+INFO  17:23:14,739 - #21 P
+INFO  17:23:14,739 - #4 enum
+INFO  17:23:14,755 - #21 Broj
+INFO  17:23:14,755 - #9 {
+INFO  17:23:14,755 - #21 JEDAN
+INFO  17:23:14,755 - #18 =
+INFO  17:23:14,755 - #20 1
+INFO  17:23:14,755 - #14 ,
+INFO  17:23:14,755 - #21 DVA
+INFO  17:23:14,755 - #14 ,
+INFO  17:23:14,755 - #21 PET
+INFO  17:23:14,755 - #18 =
+INFO  17:23:14,755 - #20 5
+INFO  17:23:14,755 - #10 }
+INFO  17:23:14,755 - #9 {
+INFO  17:23:14,755 - #19 void
+INFO  17:23:14,755 - #21 main
+INFO  17:23:14,755 - #12 (
+INFO  17:23:14,755 - #13 )
+INFO  17:23:14,772 - #9 {
+INFO  17:23:14,772 - #16 return
+INFO  17:23:14,772 - #11 ;
+INFO  17:23:14,772 - #10 }
+INFO  17:23:14,787 - #10 }
+INFO  17:23:14,818 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    NoDeclListing(
+    ) [NoDeclListing]
+    DeclEnum(
+      EnumDeclFull(
+       Broj
+        EnumDecls(
+          EnumDecls(
+            EnumNoDecls(
+              EnumDeclDefPart(
+               JEDAN
+               1
+              ) [EnumDeclDefPart]
+            ) [EnumNoDecls]
+            EnumDeclNoDefPart(
+             DVA
+            ) [EnumDeclNoDefPart]
+          ) [EnumDecls]
+          EnumDeclDefPart(
+           PET
+           5
+          ) [EnumDeclDefPart]
+        ) [EnumDecls]
+      ) [EnumDeclFull]
+    ) [DeclEnum]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:23:14,818 - ===================================
+INFO  17:23:14,834 - Obradjuje se funkcija main na liniji 4
+INFO  17:23:14,834 -  Print count calls = 0
+INFO  17:23:14,834 -  Deklarisanih promenljivih ima = 0
+INFO  17:23:14,834 - ===================================
+INFO  17:23:14,834 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,151 @@
+INFO  22:48:25,951 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:48:26,617 - #4 program
+INFO  22:48:26,617 - #17 P
+INFO  22:48:26,618 - #2 enum
+INFO  22:48:26,630 - #17 Broj
+INFO  22:48:26,630 - #5 {
+INFO  22:48:26,630 - #17 JEDAN
+INFO  22:48:26,631 - #14 =
+INFO  22:48:26,631 - #16 1
+INFO  22:48:26,631 - #10 ,
+INFO  22:48:26,632 - #17 DVA
+INFO  22:48:26,632 - #10 ,
+INFO  22:48:26,633 - #17 PET
+INFO  22:48:26,633 - #14 =
+INFO  22:48:26,633 - #16 5
+INFO  22:48:26,633 - #6 }
+INFO  22:48:26,634 - #17 Broj
+INFO  22:48:26,635 - #17 b
+INFO  22:48:26,641 - #7 ;
+INFO  22:48:26,648 - #5 {
+INFO  22:48:26,649 - #15 void
+INFO  22:48:26,655 - #17 main
+INFO  22:48:26,656 - #8 (
+INFO  22:48:26,656 - #9 )
+INFO  22:48:26,662 - #17 int
+INFO  22:48:26,668 - #17 a
+INFO  22:48:26,669 - #7 ;
+INFO  22:48:26,669 - #5 {
+INFO  22:48:26,669 - #17 a
+INFO  22:48:26,677 - #14 =
+INFO  22:48:26,693 - #16 4
+INFO  22:48:26,704 - #7 ;
+INFO  22:48:26,711 - #12 return
+INFO  22:48:26,712 - #7 ;
+INFO  22:48:26,713 - #6 }
+INFO  22:48:26,719 - #6 }
+INFO  22:48:26,757 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                TermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [TermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:48:26,759 - ===================================
+INFO  22:48:26,780 - Obradjuje se funkcija main na liniji 5
+ERROR 22:48:26,781 - Greska na liniji 8 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  22:48:26,781 -  Print count calls = 0
+INFO  22:48:26,782 -  Deklarisanih promenljivih ima = 2
+INFO  22:48:26,782 - ===================================
+ERROR 22:48:26,784 - Parsiranje NIJE uspesno zavrseno!

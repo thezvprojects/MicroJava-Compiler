@@ -1,0 +1,79 @@
+INFO  17:23:00,413 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:23:01,069 - #8 program
+INFO  17:23:01,069 - #21 P
+INFO  17:23:01,069 - #4 enum
+INFO  17:23:01,084 - #21 Broj
+INFO  17:23:01,084 - #9 {
+INFO  17:23:01,084 - #21 JEDAN
+INFO  17:23:01,084 - #18 =
+INFO  17:23:01,084 - #20 1
+INFO  17:23:01,084 - #14 ,
+INFO  17:23:01,084 - #21 DVA
+INFO  17:23:01,084 - #14 ,
+INFO  17:23:01,084 - #21 PET
+INFO  17:23:01,084 - #18 =
+INFO  17:23:01,084 - #20 5
+INFO  17:23:01,084 - #10 }
+INFO  17:23:01,084 - #9 {
+INFO  17:23:01,084 - #19 void
+INFO  17:23:01,100 - #21 main
+INFO  17:23:01,100 - #12 (
+INFO  17:23:01,100 - #13 )
+INFO  17:23:01,100 - #9 {
+INFO  17:23:01,116 - #16 return
+INFO  17:23:01,116 - #11 ;
+INFO  17:23:01,116 - #10 }
+INFO  17:23:01,116 - #10 }
+INFO  17:23:01,162 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    NoDeclListing(
+    ) [NoDeclListing]
+    DeclEnum(
+      EnumDeclFull(
+       Broj
+        EnumDecls(
+          EnumDecls(
+            EnumNoDecls(
+              EnumDeclDefPart(
+               JEDAN
+               1
+              ) [EnumDeclDefPart]
+            ) [EnumNoDecls]
+            EnumDeclNoDefPart(
+             DVA
+            ) [EnumDeclNoDefPart]
+          ) [EnumDecls]
+          EnumDeclDefPart(
+           PET
+           5
+          ) [EnumDeclDefPart]
+        ) [EnumDecls]
+      ) [EnumDeclFull]
+    ) [DeclEnum]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:23:01,162 - ===================================

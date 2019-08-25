@@ -1,0 +1,81 @@
+INFO  17:11:34,551 - Compiling source file: C:\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:11:35,284 - #8 program
+INFO  17:11:35,284 - #21 P
+INFO  17:11:35,284 - #4 enum
+INFO  17:11:35,300 - #21 Broj
+INFO  17:11:35,300 - #9 {
+INFO  17:11:35,300 - #21 JEDAN
+INFO  17:11:35,300 - #18 =
+INFO  17:11:35,300 - #20 1
+INFO  17:11:35,300 - #14 ,
+INFO  17:11:35,300 - #21 DVA
+INFO  17:11:35,300 - #14 ,
+INFO  17:11:35,300 - #21 PET
+INFO  17:11:35,300 - #18 =
+INFO  17:11:35,300 - #20 5
+INFO  17:11:35,300 - #10 }
+INFO  17:11:35,300 - #9 {
+INFO  17:11:35,300 - #19 void
+INFO  17:11:35,300 - #21 main
+INFO  17:11:35,300 - #12 (
+INFO  17:11:35,300 - #13 )
+INFO  17:11:35,317 - #9 {
+INFO  17:11:35,317 - #16 return
+INFO  17:11:35,332 - #11 ;
+INFO  17:11:35,332 - #10 }
+INFO  17:11:35,332 - #10 }
+INFO  17:11:35,348 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    NoDeclListing(
+    ) [NoDeclListing]
+    DeclEnum(
+      EnumDeclFull(
+       Broj
+        EnumDecls(
+          EnumDecls(
+            EnumNoDecls(
+              EnumDeclDefPart(
+               JEDAN
+               1
+              ) [EnumDeclDefPart]
+            ) [EnumNoDecls]
+            EnumDeclNoDefPart(
+             DVA
+            ) [EnumDeclNoDefPart]
+          ) [EnumDecls]
+          EnumDeclDefPart(
+           PET
+           5
+          ) [EnumDeclDefPart]
+        ) [EnumDecls]
+      ) [EnumDeclFull]
+    ) [DeclEnum]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoLocalVar(
+      ) [NoLocalVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:11:35,348 - ===================================
+INFO  17:11:35,363 -  Print count calls = 0
+INFO  17:11:35,363 -  Deklarisanih promenljivih ima = 0

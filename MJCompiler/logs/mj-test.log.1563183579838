@@ -1,0 +1,214 @@
+INFO  11:38:59,792 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:38:59,909 - #4 program
+INFO  11:38:59,909 - #17 P
+INFO  11:38:59,910 - #2 enum
+INFO  11:38:59,912 - #17 Broj
+INFO  11:38:59,913 - #5 {
+INFO  11:38:59,913 - #17 JEDAN
+INFO  11:38:59,913 - #14 =
+INFO  11:38:59,913 - #16 1
+INFO  11:38:59,914 - #10 ,
+INFO  11:38:59,914 - #17 DVA
+INFO  11:38:59,915 - #10 ,
+INFO  11:38:59,915 - #17 PET
+INFO  11:38:59,915 - #14 =
+INFO  11:38:59,916 - #16 5
+INFO  11:38:59,916 - #6 }
+INFO  11:38:59,916 - #17 Broj
+INFO  11:38:59,917 - #17 b
+INFO  11:38:59,919 - #7 ;
+INFO  11:38:59,921 - #5 {
+INFO  11:38:59,922 - #15 void
+INFO  11:38:59,923 - #17 main
+INFO  11:38:59,923 - #8 (
+INFO  11:38:59,924 - #9 )
+INFO  11:38:59,925 - #17 int
+INFO  11:38:59,927 - #17 a
+INFO  11:38:59,927 - #7 ;
+INFO  11:38:59,927 - #5 {
+INFO  11:38:59,928 - #17 a
+INFO  11:38:59,929 - #14 =
+INFO  11:38:59,932 - #29 -
+INFO  11:38:59,933 - #16 4
+INFO  11:38:59,934 - #13 +
+INFO  11:38:59,936 - #16 2
+INFO  11:38:59,937 - #13 +
+INFO  11:38:59,937 - #16 5
+INFO  11:38:59,937 - #13 +
+INFO  11:38:59,938 - #16 1
+INFO  11:38:59,938 - #13 +
+INFO  11:38:59,938 - #17 asagsdgads
+INFO  11:38:59,938 - #7 ;
+INFO  11:38:59,941 - #12 return
+INFO  11:38:59,942 - #7 ;
+INFO  11:38:59,942 - #6 }
+INFO  11:38:59,943 - #6 }
+INFO  11:38:59,960 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                MinusFrontAddExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                  AddTermListing(
+                    AddTermListing(
+                      AddTermListing(
+                        AddTermSolo(
+                          Addop(
+                          ) [Addop]
+                          Term(
+                            FactorSolo(
+                              Const(
+                                IntInit(
+                                 2
+                                ) [IntInit]
+                              ) [Const]
+                            ) [FactorSolo]
+                          ) [Term]
+                        ) [AddTermSolo]
+                        Addop(
+                        ) [Addop]
+                        Term(
+                          FactorSolo(
+                            Const(
+                              IntInit(
+                               5
+                              ) [IntInit]
+                            ) [Const]
+                          ) [FactorSolo]
+                        ) [Term]
+                      ) [AddTermListing]
+                      Addop(
+                      ) [Addop]
+                      Term(
+                        FactorSolo(
+                          Const(
+                            IntInit(
+                             1
+                            ) [IntInit]
+                          ) [Const]
+                        ) [FactorSolo]
+                      ) [Term]
+                    ) [AddTermListing]
+                    Addop(
+                    ) [Addop]
+                    Term(
+                      FactorSolo(
+                        Var(
+                          Designator(
+                            DesignatorName(
+                             asagsdgads
+                            ) [DesignatorName]
+                          ) [Designator]
+                          NoDesignAdds(
+                          ) [NoDesignAdds]
+                        ) [Var]
+                      ) [FactorSolo]
+                    ) [Term]
+                  ) [AddTermListing]
+                ) [MinusFrontAddExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:38:59,961 - ===================================
+INFO  11:38:59,970 - Obradjuje se funkcija main na liniji 5
+ERROR 11:38:59,971 - Greska na liniji 8 : ime asagsdgads nije deklarisano! 
+ERROR 11:38:59,971 - Greska na liniji 8: nekompatibilni termovi(term i addtermlist)
+ERROR 11:38:59,971 - Greska na liniji 8: nekompatibilni addterm i term(minfrontaddexpr)

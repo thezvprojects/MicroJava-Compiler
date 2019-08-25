@@ -1,0 +1,166 @@
+INFO  11:20:58,342 - Compiling source file: C:\Users\Limenka\Desktop\flash\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:20:58,453 - #4 program
+INFO  11:20:58,453 - #17 P
+INFO  11:20:58,454 - #2 enum
+INFO  11:20:58,457 - #17 Broj
+INFO  11:20:58,457 - #5 {
+INFO  11:20:58,457 - #17 JEDAN
+INFO  11:20:58,457 - #14 =
+INFO  11:20:58,458 - #16 1
+INFO  11:20:58,458 - #10 ,
+INFO  11:20:58,459 - #17 DVA
+INFO  11:20:58,459 - #10 ,
+INFO  11:20:58,460 - #17 PET
+INFO  11:20:58,460 - #14 =
+INFO  11:20:58,460 - #16 5
+INFO  11:20:58,460 - #6 }
+INFO  11:20:58,461 - #17 Broj
+INFO  11:20:58,462 - #17 b
+INFO  11:20:58,464 - #7 ;
+INFO  11:20:58,466 - #5 {
+INFO  11:20:58,467 - #15 void
+INFO  11:20:58,469 - #17 main
+INFO  11:20:58,469 - #8 (
+INFO  11:20:58,470 - #9 )
+INFO  11:20:58,471 - #17 int
+INFO  11:20:58,472 - #17 a
+INFO  11:20:58,472 - #7 ;
+INFO  11:20:58,473 - #5 {
+INFO  11:20:58,473 - #17 a
+INFO  11:20:58,475 - #14 =
+INFO  11:20:58,476 - #29 -
+INFO  11:20:58,477 - #16 4
+INFO  11:20:58,478 - #7 ;
+INFO  11:20:58,480 - #12 return
+INFO  11:20:58,481 - #7 ;
+INFO  11:20:58,481 - #11 print
+INFO  11:20:58,482 - #8 (
+INFO  11:20:58,482 - #19 w
+INFO  11:20:58,483 - #9 )
+INFO  11:20:58,483 - #7 ;
+INFO  11:20:58,483 - #6 }
+INFO  11:20:58,484 - #6 }
+INFO  11:20:58,500 - Program(
+  ProgName(
+   P
+  ) [ProgName]
+  DeclListing(
+    DeclListing(
+      NoDeclListing(
+      ) [NoDeclListing]
+      DeclEnum(
+        EnumDeclFull(
+         Broj
+          EnumDecls(
+            EnumDecls(
+              EnumNoDecls(
+                EnumDeclDefPart(
+                 JEDAN
+                 1
+                ) [EnumDeclDefPart]
+              ) [EnumNoDecls]
+              EnumDeclNoDefPart(
+               DVA
+              ) [EnumDeclNoDefPart]
+            ) [EnumDecls]
+            EnumDeclDefPart(
+             PET
+             5
+            ) [EnumDeclDefPart]
+          ) [EnumDecls]
+        ) [EnumDeclFull]
+      ) [DeclEnum]
+    ) [DeclListing]
+    DeclVar(
+      VarDeclar(
+        Type(
+         Broj
+        ) [Type]
+        NoVarDecls(
+          VarId(
+            VarName(
+             b
+            ) [VarName]
+          ) [VarId]
+        ) [NoVarDecls]
+      ) [VarDeclar]
+    ) [DeclVar]
+  ) [DeclListing]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormParam(
+      ) [NoFormParam]
+      LocalVar(
+        NoLocalVar(
+        ) [NoLocalVar]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          NoVarDecls(
+            VarId(
+              VarName(
+               a
+              ) [VarName]
+            ) [VarId]
+          ) [NoVarDecls]
+        ) [VarDeclar]
+      ) [LocalVar]
+      StList(
+        StList(
+          StList(
+            StNoList(
+            ) [StNoList]
+            Assignment(
+              DesStmtExpr(
+                Designator(
+                 a
+                ) [Designator]
+                AssignEq(
+                ) [AssignEq]
+                MinusFrontTermExpr(
+                  Term(
+                    FactorSolo(
+                      Const(
+                        IntInit(
+                         4
+                        ) [IntInit]
+                      ) [Const]
+                    ) [FactorSolo]
+                  ) [Term]
+                ) [MinusFrontTermExpr]
+              ) [DesStmtExpr]
+            ) [Assignment]
+          ) [StList]
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [StList]
+        PrintStmt(
+          TermExpr(
+            Term(
+              FactorSolo(
+                Const(
+                  CharInit(
+                   w
+                  ) [CharInit]
+                ) [Const]
+              ) [FactorSolo]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [StList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:20:58,501 - ===================================
+INFO  11:20:58,510 - Obradjuje se funkcija main na liniji 5
+ERROR 11:20:58,510 - Greska na liniji 10: pogresan type
+INFO  11:20:58,511 -  Print count calls = 1
+INFO  11:20:58,511 -  Deklarisanih promenljivih ima = 2
+INFO  11:20:58,511 - ===================================
+ERROR 11:20:58,513 - Parsiranje NIJE uspesno zavrseno!
